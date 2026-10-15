@@ -1,0 +1,25 @@
+Feature,Importance
+Base_Salary_EUR,0.09919474668552176
+Annual_Bonus_EUR,0.09899784507430158
+Commute_Distance_km,0.09737740613197474
+Avg_Overtime_Hours_Per_Month,0.09206402834885279
+Salary_Growth_Rate_Pct,0.0859916627250268
+Years_Since_Last_Promotion,0.08486303684481893
+Training_Hours_Completed,0.08426569837187028
+Age,0.07858229363815412
+Vacation_Days_Taken,0.06990828097930508
+Short_Term_Sick_Leave_Count,0.040897568509145485
+Latest_Performance_Rating,0.03747033951929818
+FTE,0.02473063524834417
+Department_Operations,0.012169168514201268
+Department_Customer Service,0.011881500149191409
+Department_IT,0.01154695154972715
+Mobility_Budget_Opt_In_Yes,0.011473140068707342
+Mobility_Budget_Opt_In_No,0.011173604028974375
+Contract_Type_Vast,0.01114137071923742
+Contract_Type_Tijdelijk,0.011014679688271784
+Department_Sales,0.010853425401547385
+Department_Finance,0.008627553948535201
+Department_HR,0.005775063854992727
+Vacation_Days_Allotted,0.0
+Tenure_Years,0.0

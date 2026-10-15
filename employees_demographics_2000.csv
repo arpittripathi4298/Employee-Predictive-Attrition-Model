@@ -1,0 +1,2001 @@
+EmployeeID,Age,Department,Tenure_Years,Contract_Type,FTE,Commute_Distance_km,Attrition
+1001,50,IT,9.4,Vast,1.0,4.7,No
+1002,36,IT,9.4,Vast,0.8,39.8,No
+1003,29,Operations,9.4,Vast,1.0,2.8,No
+1004,42,Customer Service,9.4,Vast,0.6,13.0,Yes
+1005,40,Sales,9.4,Vast,1.0,12.2,No
+1006,44,Customer Service,9.4,Vast,0.6,20.2,Yes
+1007,32,Sales,9.4,Tijdelijk,1.0,10.4,No
+1008,32,Sales,9.4,Tijdelijk,1.0,4.8,No
+1009,45,Operations,9.4,Tijdelijk,0.8,2.8,No
+1010,57,Sales,9.4,Vast,0.8,14.5,No
+1011,45,IT,9.4,Vast,1.0,19.0,Yes
+1012,24,Customer Service,9.4,Tijdelijk,0.8,12.6,No
+1013,43,Customer Service,9.4,Vast,1.0,20.1,Yes
+1014,23,Operations,9.4,Vast,1.0,2.3,No
+1015,45,Customer Service,9.4,Vast,0.8,32.1,No
+1016,51,Customer Service,9.4,Vast,1.0,13.1,No
+1017,59,Finance,9.4,Vast,1.0,2.0,No
+1018,23,IT,9.4,Vast,1.0,9.3,No
+1019,42,Sales,9.4,Vast,1.0,27.9,No
+1020,54,Sales,9.4,Vast,0.8,34.2,Yes
+1021,33,Operations,9.4,Vast,0.6,4.6,No
+1022,43,IT,9.4,Vast,1.0,18.6,No
+1023,46,HR,9.4,Vast,1.0,1.6,No
+1024,48,IT,9.4,Vast,0.6,0.5,No
+1025,49,Sales,9.4,Vast,1.0,12.3,No
+1026,37,Customer Service,9.4,Vast,1.0,17.8,No
+1027,36,Customer Service,9.4,Vast,0.8,23.8,No
+1028,24,Operations,9.4,Vast,1.0,6.2,No
+1029,58,Customer Service,9.4,Vast,0.8,0.1,No
+1030,28,IT,9.4,Tijdelijk,1.0,9.8,No
+1031,42,IT,9.4,Vast,0.8,0.2,No
+1032,30,Sales,9.4,Vast,1.0,1.4,Yes
+1033,39,Operations,9.4,Vast,0.8,5.9,No
+1034,25,Operations,9.4,Vast,1.0,8.6,No
+1035,46,Sales,9.4,Vast,1.0,4.9,No
+1036,35,IT,9.4,Vast,0.8,13.1,Yes
+1037,30,Operations,9.4,Tijdelijk,1.0,0.9,No
+1038,47,Sales,9.4,Vast,1.0,2.3,Yes
+1039,23,HR,9.4,Vast,0.6,17.8,No
+1040,41,Sales,9.4,Vast,1.0,2.3,Yes
+1041,49,Operations,9.4,Tijdelijk,0.8,15.3,No
+1042,28,Operations,9.4,Vast,1.0,0.8,No
+1043,29,IT,9.4,Tijdelijk,1.0,7.8,Yes
+1044,56,IT,9.4,Vast,1.0,2.9,No
+1045,35,HR,9.4,Tijdelijk,0.8,1.7,No
+1046,38,Operations,9.4,Tijdelijk,1.0,12.6,No
+1047,57,IT,9.4,Vast,1.0,39.5,No
+1048,25,Finance,9.4,Vast,1.0,0.8,No
+1049,23,Sales,9.4,Vast,1.0,8.2,No
+1050,27,Sales,9.4,Vast,1.0,18.4,No
+1051,25,Operations,9.4,Tijdelijk,0.6,9.3,Yes
+1052,50,Operations,9.4,Vast,0.8,24.6,No
+1053,39,Operations,9.4,Vast,0.8,3.0,No
+1054,47,IT,9.4,Vast,0.8,48.1,No
+1055,55,Finance,9.4,Tijdelijk,0.8,7.3,No
+1056,31,Customer Service,9.4,Vast,0.8,6.3,No
+1057,57,Finance,9.4,Vast,0.8,31.1,No
+1058,35,HR,9.4,Vast,0.6,12.4,No
+1059,52,Operations,9.4,Tijdelijk,0.6,10.9,No
+1060,36,Finance,9.4,Vast,0.8,19.5,No
+1061,29,Operations,9.4,Vast,0.8,13.0,No
+1062,35,Sales,9.4,Vast,1.0,2.7,No
+1063,44,Sales,9.4,Vast,1.0,16.8,No
+1064,42,IT,9.4,Vast,0.8,2.1,No
+1065,37,Operations,9.4,Tijdelijk,1.0,24.6,No
+1066,39,Customer Service,9.4,Tijdelijk,0.8,68.7,No
+1067,45,Operations,9.4,Vast,0.8,7.1,No
+1068,47,IT,9.4,Tijdelijk,0.6,8.8,No
+1069,46,Operations,9.4,Vast,1.0,0.7,No
+1070,50,HR,9.4,Tijdelijk,1.0,0.2,No
+1071,36,Sales,9.4,Tijdelijk,0.8,38.2,No
+1072,22,Finance,9.4,Vast,0.8,2.1,No
+1073,46,IT,9.4,Tijdelijk,1.0,8.9,No
+1074,28,Sales,9.4,Vast,0.8,25.3,No
+1075,30,Operations,9.4,Vast,0.8,33.0,No
+1076,45,Customer Service,9.4,Vast,1.0,11.0,No
+1077,22,Sales,9.4,Vast,1.0,12.5,No
+1078,29,IT,9.4,Tijdelijk,1.0,16.6,No
+1079,45,IT,9.4,Tijdelijk,1.0,48.8,Yes
+1080,32,IT,9.4,Vast,0.8,13.8,Yes
+1081,38,Operations,9.4,Tijdelijk,0.6,12.3,No
+1082,29,Operations,9.4,Tijdelijk,1.0,0.2,No
+1083,56,Sales,9.4,Vast,0.6,1.3,Yes
+1084,56,Sales,9.4,Vast,1.0,12.9,No
+1085,54,Operations,9.4,Vast,1.0,41.3,No
+1086,26,IT,9.4,Vast,1.0,30.2,No
+1087,49,IT,9.4,Tijdelijk,0.8,60.8,No
+1088,28,Customer Service,9.4,Vast,1.0,11.3,No
+1089,30,Operations,9.4,Tijdelijk,1.0,23.3,Yes
+1090,29,Finance,9.4,Vast,1.0,27.5,No
+1091,33,Customer Service,9.4,Vast,0.8,15.7,No
+1092,55,Sales,9.4,Vast,0.6,6.2,No
+1093,54,Customer Service,9.4,Vast,0.8,9.5,No
+1094,44,Operations,9.4,Vast,0.8,29.3,No
+1095,45,Customer Service,9.4,Vast,0.8,5.3,No
+1096,58,IT,9.4,Vast,1.0,38.6,No
+1097,56,IT,9.4,Vast,1.0,3.9,No
+1098,43,Finance,9.4,Vast,0.8,20.8,No
+1099,48,Customer Service,9.4,Tijdelijk,1.0,14.9,No
+1100,56,Customer Service,9.4,Vast,0.6,20.8,Yes
+1101,22,IT,9.4,Vast,1.0,8.6,No
+1102,56,Operations,9.4,Vast,1.0,40.5,Yes
+1103,58,Customer Service,9.4,Vast,1.0,15.0,No
+1104,35,Operations,9.4,Tijdelijk,1.0,5.1,Yes
+1105,24,HR,9.4,Vast,0.8,15.3,No
+1106,22,Customer Service,9.4,Vast,0.6,5.1,Yes
+1107,26,Sales,9.4,Tijdelijk,1.0,5.2,Yes
+1108,47,Operations,9.4,Vast,1.0,7.7,No
+1109,35,Sales,9.4,Vast,0.8,28.7,No
+1110,48,Operations,9.4,Vast,0.6,10.4,Yes
+1111,30,Customer Service,9.4,Vast,1.0,17.0,Yes
+1112,36,Sales,9.4,Vast,0.6,7.5,Yes
+1113,36,Customer Service,9.4,Vast,1.0,4.6,No
+1114,47,IT,9.4,Tijdelijk,1.0,46.4,No
+1115,34,Customer Service,9.4,Tijdelijk,0.8,13.9,Yes
+1116,53,Operations,9.4,Vast,0.6,40.8,No
+1117,53,IT,9.4,Vast,1.0,3.4,No
+1118,25,IT,9.4,Tijdelijk,1.0,2.4,No
+1119,51,Finance,9.4,Vast,1.0,29.1,No
+1120,58,Finance,9.4,Tijdelijk,0.8,17.1,No
+1121,44,Customer Service,9.4,Tijdelijk,0.6,3.1,Yes
+1122,36,IT,9.4,Tijdelijk,1.0,4.7,No
+1123,50,IT,9.4,Vast,1.0,24.2,No
+1124,57,Sales,9.4,Vast,0.8,9.1,No
+1125,34,Operations,9.4,Vast,1.0,16.7,No
+1126,53,Sales,9.4,Tijdelijk,0.8,5.7,No
+1127,28,Customer Service,9.4,Vast,0.8,7.2,No
+1128,43,Customer Service,9.4,Tijdelijk,0.6,70.2,No
+1129,49,Customer Service,9.4,Vast,0.8,4.3,No
+1130,23,HR,9.4,Vast,1.0,10.6,No
+1131,27,Operations,9.4,Vast,1.0,27.9,Yes
+1132,49,Operations,9.4,Vast,1.0,4.1,No
+1133,49,Sales,9.4,Vast,1.0,8.0,No
+1134,41,Customer Service,9.4,Vast,0.8,14.3,Yes
+1135,51,IT,9.4,Tijdelijk,0.6,9.8,Yes
+1136,32,Operations,9.4,Vast,0.6,9.2,No
+1137,49,IT,9.4,Vast,0.8,6.8,No
+1138,46,Sales,9.4,Vast,1.0,13.3,No
+1139,54,Customer Service,9.4,Tijdelijk,1.0,14.7,Yes
+1140,22,HR,9.4,Tijdelijk,1.0,15.9,No
+1141,48,Operations,9.4,Vast,0.8,1.1,No
+1142,34,Customer Service,9.4,Tijdelijk,0.8,15.0,No
+1143,24,Finance,9.4,Tijdelijk,1.0,45.9,No
+1144,27,IT,9.4,Vast,0.6,11.7,No
+1145,29,Operations,9.4,Vast,1.0,18.8,No
+1146,48,Operations,9.4,Vast,1.0,12.2,No
+1147,30,IT,9.4,Vast,0.8,28.9,No
+1148,58,Customer Service,9.4,Tijdelijk,1.0,39.8,No
+1149,54,Sales,9.4,Vast,1.0,3.1,No
+1150,45,Customer Service,9.4,Tijdelijk,0.8,8.6,No
+1151,36,Operations,9.4,Vast,1.0,7.5,No
+1152,53,IT,9.4,Vast,0.8,7.8,Yes
+1153,53,Sales,9.4,Vast,0.6,2.0,No
+1154,45,IT,9.4,Vast,1.0,25.2,No
+1155,33,Sales,9.4,Tijdelijk,1.0,0.5,No
+1156,23,Customer Service,9.4,Tijdelijk,0.8,11.3,No
+1157,24,Sales,9.4,Vast,0.8,16.3,Yes
+1158,58,Sales,9.4,Vast,1.0,3.5,No
+1159,38,IT,9.4,Vast,1.0,35.4,No
+1160,23,IT,9.4,Vast,1.0,27.4,No
+1161,23,IT,9.4,Vast,0.8,9.6,Yes
+1162,49,Sales,9.4,Vast,1.0,7.9,No
+1163,44,IT,9.4,Vast,0.8,4.0,No
+1164,58,Operations,9.4,Tijdelijk,1.0,19.6,No
+1165,53,Sales,9.4,Vast,0.6,2.1,No
+1166,54,Operations,9.4,Vast,1.0,17.1,No
+1167,22,IT,9.4,Vast,0.8,27.7,No
+1168,40,Operations,9.4,Vast,1.0,3.9,No
+1169,23,Customer Service,9.4,Vast,0.8,30.2,Yes
+1170,47,Finance,9.4,Tijdelijk,0.8,0.5,No
+1171,53,Sales,9.4,Tijdelijk,1.0,36.6,Yes
+1172,27,IT,9.4,Vast,1.0,1.9,Yes
+1173,53,Customer Service,9.4,Vast,1.0,15.6,No
+1174,25,Finance,9.4,Vast,0.8,4.3,No
+1175,32,Operations,9.4,Tijdelijk,1.0,27.2,No
+1176,38,Customer Service,9.4,Vast,1.0,10.8,No
+1177,59,Operations,9.4,Vast,0.8,2.2,No
+1178,45,Sales,9.4,Vast,0.6,12.7,No
+1179,26,Sales,9.4,Vast,1.0,7.9,No
+1180,55,Operations,9.4,Vast,1.0,16.2,No
+1181,27,Customer Service,9.4,Tijdelijk,1.0,32.0,No
+1182,43,Finance,9.4,Vast,1.0,7.9,No
+1183,32,Sales,9.4,Vast,1.0,5.1,No
+1184,37,IT,9.4,Vast,0.8,0.2,No
+1185,54,IT,9.4,Tijdelijk,1.0,12.8,No
+1186,30,Operations,9.4,Tijdelijk,1.0,7.7,No
+1187,27,HR,9.4,Vast,0.8,7.0,No
+1188,37,Operations,9.4,Tijdelijk,1.0,3.0,No
+1189,50,Sales,9.4,Vast,0.8,8.4,No
+1190,24,Finance,9.4,Vast,1.0,62.4,Yes
+1191,41,IT,9.4,Vast,0.8,5.3,No
+1192,57,Finance,9.4,Vast,0.8,13.7,No
+1193,40,IT,9.4,Vast,0.8,22.5,No
+1194,47,Customer Service,9.4,Vast,1.0,20.7,No
+1195,24,Sales,9.4,Vast,0.6,6.0,No
+1196,40,IT,9.4,Tijdelijk,1.0,14.2,No
+1197,41,Operations,9.4,Vast,1.0,30.7,No
+1198,53,Operations,9.4,Vast,1.0,0.2,No
+1199,28,HR,9.4,Vast,0.6,8.6,No
+1200,54,Finance,9.4,Tijdelijk,1.0,3.8,No
+1201,39,Sales,9.4,Vast,0.6,7.4,No
+1202,22,IT,9.4,Vast,1.0,8.1,No
+1203,32,IT,9.4,Tijdelijk,0.6,20.6,No
+1204,49,IT,9.4,Vast,1.0,1.5,No
+1205,46,Sales,9.4,Vast,1.0,10.8,No
+1206,44,Customer Service,9.4,Tijdelijk,1.0,12.5,No
+1207,52,Operations,9.4,Vast,1.0,10.2,No
+1208,51,IT,9.4,Vast,0.8,19.7,No
+1209,56,Sales,9.4,Vast,0.8,7.3,No
+1210,28,Customer Service,9.4,Vast,1.0,43.5,No
+1211,37,Finance,9.4,Vast,1.0,9.9,No
+1212,47,Customer Service,9.4,Vast,0.6,12.7,No
+1213,23,Operations,9.4,Vast,1.0,26.2,No
+1214,22,IT,9.4,Vast,1.0,4.8,No
+1215,33,Customer Service,9.4,Tijdelijk,1.0,1.2,No
+1216,26,Finance,9.4,Vast,0.6,18.5,No
+1217,58,Operations,9.4,Vast,0.8,9.9,No
+1218,53,Finance,9.4,Tijdelijk,0.8,34.0,No
+1219,30,Customer Service,9.4,Vast,1.0,60.8,No
+1220,56,Sales,9.4,Vast,1.0,7.6,No
+1221,40,Finance,9.4,Tijdelijk,1.0,8.1,No
+1222,37,Operations,9.4,Vast,1.0,7.9,No
+1223,24,Sales,9.4,Vast,1.0,5.9,No
+1224,41,Sales,9.4,Tijdelijk,1.0,22.8,No
+1225,45,Customer Service,9.4,Vast,1.0,21.3,No
+1226,54,Customer Service,9.4,Vast,0.8,9.8,No
+1227,45,Customer Service,9.4,Vast,1.0,0.7,No
+1228,32,IT,9.4,Vast,1.0,5.6,No
+1229,29,Finance,9.4,Vast,0.8,5.2,No
+1230,57,HR,9.4,Tijdelijk,0.8,25.0,No
+1231,59,Finance,9.4,Vast,0.6,1.4,No
+1232,41,HR,9.4,Tijdelijk,1.0,24.6,No
+1233,56,Customer Service,9.4,Vast,1.0,16.6,Yes
+1234,46,Sales,9.4,Tijdelijk,1.0,19.8,Yes
+1235,56,Sales,9.4,Tijdelijk,1.0,8.5,No
+1236,46,IT,9.4,Vast,0.8,17.1,No
+1237,50,Operations,9.4,Vast,0.8,14.1,Yes
+1238,39,Sales,9.4,Vast,0.6,22.0,No
+1239,39,HR,9.4,Vast,1.0,8.9,No
+1240,23,Operations,9.4,Tijdelijk,0.8,9.6,No
+1241,56,IT,9.4,Tijdelijk,1.0,15.5,No
+1242,37,Finance,9.4,Vast,1.0,1.7,No
+1243,57,IT,9.4,Vast,1.0,8.6,No
+1244,54,IT,9.4,Vast,0.8,53.6,Yes
+1245,25,IT,9.4,Vast,1.0,0.6,No
+1246,54,IT,9.4,Vast,1.0,5.7,No
+1247,35,IT,9.4,Tijdelijk,0.8,5.7,No
+1248,42,Operations,9.4,Tijdelijk,1.0,15.1,No
+1249,41,Operations,9.4,Vast,1.0,1.7,No
+1250,29,Customer Service,9.4,Vast,0.6,14.9,No
+1251,28,Sales,9.4,Vast,1.0,1.5,No
+1252,24,Finance,9.4,Vast,0.8,1.5,No
+1253,38,IT,9.4,Vast,1.0,19.5,No
+1254,54,Operations,9.4,Vast,0.6,5.9,No
+1255,33,Finance,9.4,Tijdelijk,1.0,56.9,No
+1256,43,IT,9.4,Vast,0.8,0.6,No
+1257,43,Sales,9.4,Vast,1.0,8.8,No
+1258,51,Sales,9.4,Tijdelijk,1.0,1.8,No
+1259,59,Sales,9.4,Tijdelijk,1.0,6.5,No
+1260,59,IT,9.4,Vast,1.0,95.0,Yes
+1261,29,Operations,9.4,Vast,1.0,33.0,No
+1262,48,Sales,9.4,Vast,0.6,0.7,No
+1263,48,IT,9.4,Tijdelijk,0.8,12.4,No
+1264,55,Finance,9.4,Tijdelijk,1.0,15.7,Yes
+1265,42,Finance,9.4,Vast,0.8,3.5,No
+1266,51,Customer Service,9.4,Vast,0.8,2.4,Yes
+1267,54,Operations,9.4,Tijdelijk,1.0,35.2,Yes
+1268,49,Customer Service,9.4,Vast,0.8,52.0,No
+1269,54,Sales,9.4,Vast,0.8,72.2,Yes
+1270,26,Operations,9.4,Vast,1.0,23.4,No
+1271,40,IT,9.4,Vast,1.0,16.3,No
+1272,25,Finance,9.4,Vast,1.0,6.4,No
+1273,56,Operations,9.4,Tijdelijk,1.0,2.8,No
+1274,38,Operations,9.4,Tijdelijk,1.0,1.2,No
+1275,49,IT,9.4,Vast,1.0,17.7,No
+1276,51,Customer Service,9.4,Vast,0.6,23.0,No
+1277,50,HR,9.4,Vast,0.8,26.3,No
+1278,27,Finance,9.4,Vast,1.0,36.8,No
+1279,56,Operations,9.4,Vast,1.0,31.8,No
+1280,58,IT,9.4,Tijdelijk,1.0,123.9,No
+1281,45,Sales,9.4,Vast,0.8,4.2,No
+1282,50,Sales,9.4,Vast,0.8,21.6,No
+1283,52,IT,9.4,Vast,1.0,13.2,No
+1284,56,Finance,9.4,Tijdelijk,0.8,4.5,No
+1285,54,Customer Service,9.4,Tijdelijk,1.0,60.2,No
+1286,42,Finance,9.4,Tijdelijk,0.6,34.2,Yes
+1287,53,Finance,9.4,Tijdelijk,0.6,2.1,No
+1288,44,Customer Service,9.4,Vast,1.0,0.4,No
+1289,54,Operations,9.4,Vast,1.0,17.5,No
+1290,24,Sales,9.4,Vast,0.8,13.9,No
+1291,39,Customer Service,9.4,Vast,0.8,41.2,No
+1292,46,IT,9.4,Vast,1.0,4.0,No
+1293,52,Finance,9.4,Vast,0.8,1.3,No
+1294,24,Sales,9.4,Vast,1.0,4.5,No
+1295,45,Sales,9.4,Vast,1.0,0.3,No
+1296,53,Finance,9.4,Vast,0.8,0.5,No
+1297,43,Customer Service,9.4,Tijdelijk,1.0,37.0,No
+1298,44,HR,9.4,Vast,0.8,6.5,No
+1299,23,IT,9.4,Vast,1.0,7.9,No
+1300,48,Customer Service,9.4,Vast,0.8,0.3,No
+1301,23,Operations,9.4,Vast,1.0,4.7,No
+1302,47,Operations,9.4,Vast,0.8,24.5,Yes
+1303,38,Sales,9.4,Vast,0.8,14.3,No
+1304,54,Sales,9.4,Vast,1.0,21.0,No
+1305,30,Operations,9.4,Vast,1.0,8.9,No
+1306,50,Customer Service,9.4,Vast,1.0,5.6,No
+1307,47,Finance,9.4,Vast,0.8,9.9,No
+1308,56,Sales,9.4,Vast,1.0,5.9,No
+1309,46,IT,9.4,Vast,0.6,27.4,No
+1310,45,Customer Service,9.4,Vast,0.6,5.3,No
+1311,34,Customer Service,9.4,Vast,1.0,16.2,No
+1312,28,HR,9.4,Vast,0.8,2.2,Yes
+1313,57,IT,9.4,Vast,1.0,17.4,No
+1314,41,IT,9.4,Vast,1.0,36.7,No
+1315,22,Operations,9.4,Vast,1.0,14.1,No
+1316,29,IT,9.4,Tijdelijk,1.0,12.3,No
+1317,37,Operations,9.4,Tijdelijk,1.0,48.7,No
+1318,35,Customer Service,9.4,Tijdelijk,0.8,14.8,Yes
+1319,33,Sales,9.4,Vast,1.0,4.5,No
+1320,44,IT,9.4,Vast,0.8,5.2,No
+1321,36,Operations,9.4,Vast,0.8,18.3,No
+1322,49,IT,9.4,Vast,1.0,19.9,No
+1323,55,IT,9.4,Vast,1.0,5.4,No
+1324,23,Operations,9.4,Vast,1.0,6.4,No
+1325,53,Operations,9.4,Tijdelijk,0.8,70.8,No
+1326,44,HR,9.4,Vast,1.0,1.6,No
+1327,43,Customer Service,9.4,Tijdelijk,0.6,7.8,No
+1328,46,Operations,9.4,Vast,1.0,1.0,No
+1329,43,Operations,9.4,Vast,1.0,25.8,No
+1330,43,Customer Service,9.4,Vast,1.0,1.5,No
+1331,27,Operations,9.4,Vast,0.8,16.8,Yes
+1332,36,IT,9.4,Tijdelijk,0.6,0.9,No
+1333,58,Customer Service,9.4,Vast,0.8,16.8,No
+1334,54,IT,9.4,Vast,1.0,27.8,No
+1335,29,Sales,9.4,Tijdelijk,1.0,7.6,No
+1336,26,Sales,9.4,Vast,0.8,11.1,Yes
+1337,25,Operations,9.4,Tijdelijk,1.0,7.7,No
+1338,27,Operations,9.4,Vast,1.0,5.4,No
+1339,53,HR,9.4,Vast,1.0,24.4,No
+1340,51,IT,9.4,Vast,1.0,4.8,No
+1341,56,Operations,9.4,Vast,1.0,19.3,No
+1342,37,Finance,9.4,Vast,0.8,3.5,No
+1343,34,Sales,9.4,Vast,0.8,4.3,No
+1344,51,IT,9.4,Tijdelijk,0.6,6.2,No
+1345,40,Customer Service,9.4,Tijdelijk,1.0,13.3,No
+1346,38,Operations,9.4,Vast,1.0,9.1,Yes
+1347,40,Customer Service,9.4,Vast,1.0,20.5,Yes
+1348,49,HR,9.4,Vast,0.6,3.6,No
+1349,47,Sales,9.4,Vast,1.0,0.2,No
+1350,58,Sales,9.4,Vast,0.8,22.5,No
+1351,47,Customer Service,9.4,Vast,0.6,25.9,No
+1352,44,IT,9.4,Vast,1.0,0.9,No
+1353,30,Finance,9.4,Vast,1.0,14.2,No
+1354,33,IT,9.4,Tijdelijk,1.0,7.1,No
+1355,22,Operations,9.4,Vast,1.0,23.7,No
+1356,22,Operations,9.4,Vast,0.6,31.1,No
+1357,55,Customer Service,9.4,Vast,0.8,28.6,No
+1358,53,Customer Service,9.4,Vast,0.8,22.5,No
+1359,46,IT,9.4,Vast,1.0,4.7,No
+1360,22,IT,9.4,Vast,1.0,25.1,No
+1361,37,Finance,9.4,Tijdelijk,0.8,11.4,No
+1362,26,Operations,9.4,Vast,1.0,0.8,No
+1363,43,IT,9.4,Vast,0.6,9.2,No
+1364,50,Finance,9.4,Tijdelijk,0.8,42.8,Yes
+1365,24,Sales,9.4,Tijdelijk,1.0,32.8,No
+1366,33,Customer Service,9.4,Vast,0.8,1.6,No
+1367,47,Operations,9.4,Vast,1.0,20.4,No
+1368,37,Operations,9.4,Vast,1.0,24.6,Yes
+1369,58,Sales,9.4,Vast,1.0,4.7,No
+1370,43,HR,9.4,Vast,0.6,9.6,Yes
+1371,50,Sales,9.4,Vast,0.8,18.6,No
+1372,35,Sales,9.4,Vast,1.0,8.7,No
+1373,49,Operations,9.4,Vast,0.8,1.8,No
+1374,26,Customer Service,9.4,Vast,0.8,18.4,No
+1375,51,Operations,9.4,Vast,1.0,36.4,No
+1376,26,IT,9.4,Vast,1.0,15.9,No
+1377,33,Finance,9.4,Vast,1.0,22.3,Yes
+1378,37,Operations,9.4,Vast,0.8,6.7,No
+1379,47,IT,9.4,Vast,1.0,3.0,No
+1380,47,Customer Service,9.4,Vast,0.8,15.4,No
+1381,42,Sales,9.4,Vast,0.6,6.0,No
+1382,57,Finance,9.4,Vast,1.0,29.5,No
+1383,54,Operations,9.4,Vast,1.0,2.0,No
+1384,51,HR,9.4,Tijdelijk,1.0,8.5,Yes
+1385,58,IT,9.4,Tijdelijk,1.0,7.6,No
+1386,44,Operations,9.4,Vast,1.0,41.7,No
+1387,31,Customer Service,9.4,Vast,1.0,2.5,No
+1388,26,HR,9.4,Vast,1.0,0.1,No
+1389,57,Sales,9.4,Vast,1.0,4.1,No
+1390,55,Operations,9.4,Vast,1.0,25.7,No
+1391,52,Customer Service,9.4,Tijdelijk,1.0,3.5,No
+1392,31,Sales,9.4,Vast,1.0,4.1,No
+1393,40,HR,9.4,Vast,0.8,2.1,No
+1394,53,HR,9.4,Tijdelijk,1.0,18.9,No
+1395,22,IT,9.4,Tijdelijk,0.8,1.1,Yes
+1396,26,IT,9.4,Tijdelijk,1.0,6.0,No
+1397,25,Finance,9.4,Vast,0.8,5.0,Yes
+1398,37,IT,9.4,Vast,1.0,12.2,No
+1399,45,Operations,9.4,Vast,1.0,19.7,No
+1400,37,Customer Service,9.4,Vast,0.8,11.4,No
+1401,23,Sales,9.4,Vast,0.6,40.1,No
+1402,49,HR,9.4,Vast,0.8,45.4,No
+1403,53,Sales,9.4,Tijdelijk,1.0,6.7,Yes
+1404,48,Sales,9.4,Vast,0.8,22.6,No
+1405,41,IT,9.4,Vast,0.8,20.1,No
+1406,45,Operations,9.4,Vast,0.8,33.5,No
+1407,33,Operations,9.4,Vast,1.0,8.9,No
+1408,56,Operations,9.4,Vast,0.8,11.3,Yes
+1409,54,HR,9.4,Vast,1.0,8.1,No
+1410,54,Operations,9.4,Vast,0.6,28.5,Yes
+1411,58,Sales,9.4,Tijdelijk,1.0,3.9,Yes
+1412,33,Operations,9.4,Vast,0.8,4.1,No
+1413,24,IT,9.4,Tijdelijk,1.0,7.0,No
+1414,22,Operations,9.4,Vast,0.8,3.9,No
+1415,54,IT,9.4,Vast,1.0,12.3,No
+1416,31,IT,9.4,Vast,1.0,2.2,No
+1417,50,IT,9.4,Vast,1.0,5.8,No
+1418,34,Operations,9.4,Vast,1.0,36.7,No
+1419,33,HR,9.4,Vast,1.0,7.9,No
+1420,52,Operations,9.4,Tijdelijk,1.0,20.7,No
+1421,23,Operations,9.4,Tijdelijk,1.0,1.8,No
+1422,56,Sales,9.4,Vast,0.8,4.3,No
+1423,44,IT,9.4,Tijdelijk,1.0,24.7,No
+1424,38,Customer Service,9.4,Vast,1.0,21.6,No
+1425,47,Sales,9.4,Tijdelijk,0.8,7.3,No
+1426,29,Operations,9.4,Vast,0.8,46.3,No
+1427,50,Sales,9.4,Vast,0.8,36.2,No
+1428,47,IT,9.4,Tijdelijk,1.0,49.2,No
+1429,31,Sales,9.4,Vast,0.8,8.4,No
+1430,47,Operations,9.4,Tijdelijk,0.8,3.3,No
+1431,55,Customer Service,9.4,Vast,0.8,14.8,No
+1432,28,IT,9.4,Vast,1.0,17.3,No
+1433,25,Sales,9.4,Vast,1.0,2.0,No
+1434,32,Sales,9.4,Vast,0.8,23.2,No
+1435,50,IT,9.4,Vast,0.6,0.3,Yes
+1436,57,Operations,9.4,Tijdelijk,0.8,9.9,No
+1437,46,Finance,9.4,Vast,1.0,6.0,No
+1438,42,Customer Service,9.4,Tijdelijk,1.0,20.2,No
+1439,57,Operations,9.4,Tijdelijk,1.0,5.6,No
+1440,31,HR,9.4,Vast,0.6,26.3,No
+1441,58,Customer Service,9.4,Tijdelijk,1.0,13.6,No
+1442,30,Customer Service,9.4,Tijdelijk,1.0,23.7,Yes
+1443,45,IT,9.4,Tijdelijk,0.8,68.1,No
+1444,56,Finance,9.4,Tijdelijk,0.8,17.1,No
+1445,56,Operations,9.4,Tijdelijk,0.8,62.9,No
+1446,57,Customer Service,9.4,Vast,1.0,0.4,Yes
+1447,39,Sales,9.4,Vast,1.0,6.2,No
+1448,53,IT,9.4,Tijdelijk,1.0,1.7,Yes
+1449,45,Finance,9.4,Vast,1.0,4.6,No
+1450,44,Operations,9.4,Vast,0.8,27.4,Yes
+1451,53,Customer Service,9.4,Vast,1.0,0.5,No
+1452,58,Customer Service,9.4,Tijdelijk,1.0,11.0,No
+1453,33,Finance,9.4,Vast,0.8,12.6,No
+1454,34,IT,9.4,Tijdelijk,1.0,12.4,Yes
+1455,44,Finance,9.4,Vast,0.8,9.7,No
+1456,46,IT,9.4,Vast,0.8,23.5,Yes
+1457,56,IT,9.4,Vast,1.0,2.2,No
+1458,51,Customer Service,9.4,Vast,1.0,5.6,No
+1459,38,Operations,9.4,Vast,1.0,14.3,No
+1460,41,Operations,9.4,Tijdelijk,0.8,17.6,No
+1461,46,Customer Service,9.4,Tijdelijk,1.0,7.8,Yes
+1462,43,Operations,9.4,Vast,1.0,31.2,No
+1463,34,Operations,9.4,Vast,1.0,8.1,No
+1464,40,Customer Service,9.4,Tijdelijk,1.0,7.7,No
+1465,57,IT,9.4,Tijdelijk,1.0,0.6,No
+1466,33,HR,9.4,Vast,0.8,12.0,No
+1467,40,Customer Service,9.4,Vast,1.0,18.5,Yes
+1468,33,Customer Service,9.4,Vast,0.6,1.8,No
+1469,30,Finance,9.4,Tijdelijk,0.6,5.5,No
+1470,28,Operations,9.4,Vast,1.0,22.8,No
+1471,49,Operations,9.4,Vast,1.0,6.8,No
+1472,35,Customer Service,9.4,Vast,0.8,4.1,No
+1473,52,Customer Service,9.4,Tijdelijk,1.0,16.7,No
+1474,40,Sales,9.4,Vast,0.8,3.3,No
+1475,37,Operations,9.4,Vast,1.0,33.9,No
+1476,26,IT,9.4,Vast,1.0,1.7,No
+1477,56,IT,9.4,Vast,1.0,18.4,No
+1478,33,Finance,9.4,Vast,0.8,10.4,No
+1479,46,Operations,9.4,Tijdelijk,1.0,30.6,No
+1480,42,Customer Service,9.4,Tijdelijk,1.0,2.0,No
+1481,57,Finance,9.4,Tijdelijk,1.0,17.0,Yes
+1482,44,IT,9.4,Tijdelijk,1.0,12.7,No
+1483,37,Sales,9.4,Vast,1.0,9.8,No
+1484,35,Operations,9.4,Tijdelijk,0.6,10.1,No
+1485,52,Sales,9.4,Vast,1.0,19.2,No
+1486,26,Finance,9.4,Vast,1.0,41.6,No
+1487,56,Customer Service,9.4,Tijdelijk,0.6,1.4,Yes
+1488,44,Customer Service,9.4,Vast,1.0,0.3,No
+1489,50,Operations,9.4,Vast,0.8,24.6,No
+1490,32,IT,9.4,Vast,1.0,1.7,No
+1491,39,Finance,9.4,Vast,1.0,64.8,No
+1492,33,IT,9.4,Vast,0.8,14.5,No
+1493,30,Operations,9.4,Tijdelijk,1.0,15.8,Yes
+1494,31,IT,9.4,Tijdelijk,0.8,3.3,No
+1495,38,Finance,9.4,Vast,0.8,4.1,No
+1496,59,IT,9.4,Vast,0.8,16.2,No
+1497,28,Finance,9.4,Vast,1.0,36.1,No
+1498,34,Customer Service,9.4,Tijdelijk,0.6,60.6,No
+1499,30,IT,9.4,Vast,1.0,3.3,No
+1500,48,IT,9.4,Vast,1.0,2.2,No
+1501,23,Operations,9.4,Vast,0.8,0.9,No
+1502,26,Customer Service,9.4,Vast,1.0,30.4,No
+1503,50,Operations,9.4,Vast,1.0,5.2,No
+1504,58,Operations,9.4,Tijdelijk,1.0,0.0,No
+1505,59,IT,9.4,Vast,0.8,3.8,No
+1506,40,HR,9.4,Vast,0.8,6.2,No
+1507,29,Operations,9.4,Vast,0.8,70.6,No
+1508,22,HR,9.4,Tijdelijk,0.6,11.1,Yes
+1509,43,Customer Service,9.4,Vast,0.8,3.4,Yes
+1510,38,Operations,9.4,Vast,0.6,6.1,Yes
+1511,28,Customer Service,9.4,Vast,0.8,6.0,No
+1512,46,IT,9.4,Vast,0.6,0.3,No
+1513,25,Customer Service,9.4,Tijdelijk,0.8,2.2,Yes
+1514,57,Finance,9.4,Vast,0.8,17.8,No
+1515,27,Customer Service,9.4,Tijdelijk,1.0,1.9,No
+1516,52,IT,9.4,Vast,0.6,3.9,Yes
+1517,40,IT,9.4,Tijdelijk,1.0,6.5,No
+1518,48,Operations,9.4,Vast,0.8,21.3,No
+1519,31,Operations,9.4,Tijdelijk,1.0,13.1,No
+1520,47,Operations,9.4,Vast,0.6,17.5,No
+1521,40,Operations,9.4,Vast,1.0,12.6,No
+1522,24,IT,9.4,Tijdelijk,1.0,17.3,No
+1523,34,Operations,9.4,Vast,0.6,0.0,No
+1524,49,Customer Service,9.4,Vast,1.0,40.1,No
+1525,41,Sales,9.4,Vast,1.0,1.8,No
+1526,49,IT,9.4,Vast,0.8,7.8,No
+1527,29,Operations,9.4,Vast,1.0,22.1,No
+1528,22,IT,9.4,Vast,1.0,8.6,No
+1529,24,Customer Service,9.4,Vast,1.0,44.0,No
+1530,34,IT,9.4,Tijdelijk,0.8,9.5,No
+1531,49,Finance,9.4,Vast,1.0,31.2,No
+1532,46,Customer Service,9.4,Tijdelijk,1.0,25.0,No
+1533,54,Customer Service,9.4,Tijdelijk,1.0,59.4,No
+1534,59,Finance,9.4,Vast,1.0,39.2,No
+1535,27,Customer Service,9.4,Vast,0.8,34.3,No
+1536,53,Customer Service,9.4,Vast,1.0,19.7,No
+1537,42,Sales,9.4,Vast,0.8,6.9,No
+1538,37,Sales,9.4,Tijdelijk,0.8,1.7,No
+1539,42,Sales,9.4,Vast,1.0,17.5,No
+1540,32,Sales,9.4,Vast,1.0,57.7,No
+1541,58,Sales,9.4,Vast,0.6,19.5,No
+1542,57,Operations,9.4,Vast,1.0,39.6,No
+1543,56,Operations,9.4,Vast,0.8,24.5,No
+1544,40,IT,9.4,Vast,1.0,2.7,No
+1545,41,IT,9.4,Tijdelijk,1.0,4.3,No
+1546,39,Operations,9.4,Vast,0.8,6.3,No
+1547,35,IT,9.4,Vast,0.6,2.8,No
+1548,36,Sales,9.4,Tijdelijk,0.8,13.1,No
+1549,52,Operations,9.4,Vast,1.0,55.6,No
+1550,22,Customer Service,9.4,Tijdelijk,0.6,21.5,No
+1551,24,IT,9.4,Tijdelijk,0.8,8.3,No
+1552,37,Operations,9.4,Tijdelijk,1.0,0.1,No
+1553,44,Finance,9.4,Tijdelijk,1.0,5.6,No
+1554,32,Sales,9.4,Vast,0.6,11.2,No
+1555,33,IT,9.4,Tijdelijk,1.0,5.9,No
+1556,31,Customer Service,9.4,Vast,0.8,1.8,No
+1557,53,Customer Service,9.4,Tijdelijk,1.0,8.8,No
+1558,37,Operations,9.4,Tijdelijk,0.8,4.4,Yes
+1559,29,Operations,9.4,Tijdelijk,0.8,36.0,No
+1560,59,Customer Service,9.4,Tijdelijk,1.0,1.6,No
+1561,33,Sales,9.4,Vast,0.8,0.8,Yes
+1562,45,Sales,9.4,Tijdelijk,1.0,0.1,No
+1563,49,Customer Service,9.4,Vast,0.8,6.0,No
+1564,29,Operations,9.4,Tijdelijk,0.8,16.2,No
+1565,49,Operations,9.4,Vast,1.0,19.7,No
+1566,57,Operations,9.4,Vast,1.0,9.1,No
+1567,47,HR,9.4,Vast,1.0,17.3,No
+1568,29,Sales,9.4,Vast,0.8,6.7,Yes
+1569,49,Finance,9.4,Tijdelijk,0.8,16.5,No
+1570,49,Operations,9.4,Vast,0.6,0.6,Yes
+1571,58,Operations,9.4,Vast,0.6,7.4,No
+1572,57,Sales,9.4,Vast,1.0,23.5,No
+1573,48,Finance,9.4,Tijdelijk,1.0,24.4,No
+1574,38,Sales,9.4,Vast,0.8,18.9,No
+1575,30,IT,9.4,Vast,0.8,3.4,No
+1576,54,Customer Service,9.4,Vast,0.8,4.3,No
+1577,41,IT,9.4,Vast,0.8,83.2,No
+1578,34,Customer Service,9.4,Vast,0.6,1.6,No
+1579,49,IT,9.4,Vast,1.0,3.0,No
+1580,50,Finance,9.4,Vast,1.0,2.1,No
+1581,34,IT,9.4,Tijdelijk,1.0,6.0,No
+1582,56,Customer Service,9.4,Tijdelijk,1.0,3.5,No
+1583,27,Sales,9.4,Vast,1.0,10.3,No
+1584,39,IT,9.4,Tijdelijk,1.0,9.7,No
+1585,26,Operations,9.4,Vast,0.8,34.8,No
+1586,46,IT,9.4,Vast,1.0,0.5,No
+1587,23,IT,9.4,Vast,1.0,5.8,Yes
+1588,31,Customer Service,9.4,Vast,0.6,13.6,No
+1589,51,Operations,9.4,Vast,1.0,13.9,No
+1590,26,HR,9.4,Vast,0.8,9.8,Yes
+1591,54,Sales,9.4,Vast,1.0,25.4,No
+1592,22,Finance,9.4,Tijdelijk,1.0,1.0,No
+1593,39,IT,9.4,Vast,1.0,25.4,No
+1594,53,Operations,9.4,Vast,1.0,10.2,No
+1595,32,HR,9.4,Vast,1.0,2.2,No
+1596,42,Customer Service,9.4,Vast,1.0,32.5,No
+1597,47,Operations,9.4,Vast,1.0,15.7,Yes
+1598,46,Operations,9.4,Vast,1.0,2.7,No
+1599,43,Sales,9.4,Tijdelijk,1.0,0.5,Yes
+1600,48,Customer Service,9.4,Vast,1.0,2.3,No
+1601,34,Operations,9.4,Vast,1.0,14.1,No
+1602,54,Operations,9.4,Vast,1.0,3.0,No
+1603,55,Customer Service,9.4,Vast,1.0,3.8,No
+1604,56,IT,9.4,Vast,1.0,0.4,No
+1605,22,IT,9.4,Vast,0.6,19.3,No
+1606,42,Sales,9.4,Vast,0.8,24.9,No
+1607,27,Customer Service,9.4,Vast,1.0,23.9,No
+1608,49,Operations,9.4,Vast,0.8,2.0,No
+1609,38,Sales,9.4,Vast,0.8,35.0,No
+1610,26,Sales,9.4,Vast,1.0,16.7,No
+1611,52,Sales,9.4,Vast,0.6,34.2,No
+1612,26,Sales,9.4,Vast,0.8,8.9,Yes
+1613,59,Sales,9.4,Vast,1.0,8.6,No
+1614,24,Operations,9.4,Vast,1.0,23.0,No
+1615,44,Sales,9.4,Vast,1.0,1.5,No
+1616,58,Sales,9.4,Vast,1.0,11.0,No
+1617,58,Sales,9.4,Vast,1.0,27.2,No
+1618,31,Customer Service,9.4,Tijdelijk,0.8,26.6,No
+1619,31,IT,9.4,Vast,1.0,46.9,No
+1620,40,Customer Service,9.4,Tijdelijk,1.0,18.0,No
+1621,38,Customer Service,9.4,Vast,0.8,3.5,No
+1622,42,Operations,9.4,Vast,0.6,0.3,No
+1623,35,Sales,9.4,Vast,1.0,9.8,No
+1624,30,Operations,9.4,Vast,0.6,10.8,No
+1625,22,Operations,9.4,Vast,1.0,4.1,No
+1626,34,Operations,9.4,Vast,0.8,2.0,Yes
+1627,25,IT,9.4,Vast,1.0,13.2,No
+1628,22,Operations,9.4,Vast,1.0,21.7,Yes
+1629,53,Customer Service,9.4,Tijdelijk,0.6,74.8,Yes
+1630,55,Operations,9.4,Tijdelijk,0.8,21.3,Yes
+1631,49,Customer Service,9.4,Vast,1.0,23.7,No
+1632,52,Sales,9.4,Vast,1.0,14.4,No
+1633,29,Customer Service,9.4,Vast,1.0,63.9,No
+1634,47,Sales,9.4,Vast,1.0,15.3,No
+1635,55,IT,9.4,Vast,1.0,29.5,No
+1636,24,Finance,9.4,Tijdelijk,0.8,43.7,No
+1637,33,IT,9.4,Vast,0.8,39.9,No
+1638,22,Sales,9.4,Vast,0.8,7.2,No
+1639,26,Customer Service,9.4,Vast,1.0,1.2,No
+1640,51,IT,9.4,Tijdelijk,0.8,2.8,Yes
+1641,51,Operations,9.4,Vast,0.6,0.9,No
+1642,38,Finance,9.4,Vast,1.0,1.7,No
+1643,44,Customer Service,9.4,Tijdelijk,1.0,3.1,No
+1644,36,Finance,9.4,Vast,0.8,6.3,No
+1645,58,Operations,9.4,Tijdelijk,0.6,11.8,No
+1646,42,Finance,9.4,Vast,1.0,18.7,No
+1647,35,Operations,9.4,Tijdelijk,1.0,3.6,No
+1648,23,Finance,9.4,Vast,1.0,16.7,Yes
+1649,32,Customer Service,9.4,Vast,0.8,18.3,No
+1650,59,Finance,9.4,Tijdelijk,1.0,12.3,No
+1651,55,Customer Service,9.4,Vast,1.0,35.1,No
+1652,59,IT,9.4,Vast,0.8,1.8,No
+1653,55,Finance,9.4,Vast,1.0,2.9,No
+1654,39,Customer Service,9.4,Vast,0.8,8.4,No
+1655,51,IT,9.4,Vast,0.8,2.0,No
+1656,36,Customer Service,9.4,Vast,1.0,12.5,Yes
+1657,48,Operations,9.4,Vast,0.6,7.6,Yes
+1658,55,Finance,9.4,Vast,0.8,5.0,No
+1659,59,Customer Service,9.4,Vast,1.0,2.8,No
+1660,54,Finance,9.4,Vast,1.0,6.1,No
+1661,45,IT,9.4,Tijdelijk,1.0,14.0,No
+1662,36,Sales,9.4,Tijdelijk,1.0,12.9,No
+1663,51,Sales,9.4,Tijdelijk,0.8,2.7,No
+1664,38,Customer Service,9.4,Vast,1.0,2.0,No
+1665,26,Operations,9.4,Vast,1.0,0.4,No
+1666,50,Operations,9.4,Vast,1.0,0.2,No
+1667,25,Finance,9.4,Vast,1.0,31.8,No
+1668,31,Operations,9.4,Vast,1.0,0.7,No
+1669,38,Sales,9.4,Vast,1.0,19.7,No
+1670,31,Sales,9.4,Vast,1.0,30.8,Yes
+1671,38,Customer Service,9.4,Tijdelijk,0.8,1.5,No
+1672,41,Sales,9.4,Vast,1.0,8.6,No
+1673,45,Sales,9.4,Vast,0.8,49.2,No
+1674,26,IT,9.4,Vast,0.6,26.9,No
+1675,55,IT,9.4,Vast,0.8,10.1,No
+1676,27,IT,9.4,Tijdelijk,1.0,21.6,No
+1677,23,IT,9.4,Vast,1.0,26.9,No
+1678,34,Sales,9.4,Vast,1.0,6.4,No
+1679,32,Finance,9.4,Vast,1.0,33.4,No
+1680,44,Sales,9.4,Vast,1.0,9.5,No
+1681,37,Customer Service,9.4,Vast,0.8,11.3,No
+1682,52,Customer Service,9.4,Tijdelijk,0.8,122.1,No
+1683,32,Customer Service,9.4,Tijdelijk,1.0,27.8,No
+1684,37,Finance,9.4,Tijdelijk,1.0,6.7,Yes
+1685,29,Sales,9.4,Vast,1.0,0.2,No
+1686,25,Operations,9.4,Tijdelijk,1.0,14.8,No
+1687,25,IT,9.4,Vast,0.8,18.3,No
+1688,46,Operations,9.4,Vast,1.0,15.8,No
+1689,24,Customer Service,9.4,Vast,1.0,51.6,No
+1690,53,Customer Service,9.4,Vast,1.0,29.8,No
+1691,24,Operations,9.4,Vast,0.6,8.9,No
+1692,48,Sales,9.4,Tijdelijk,1.0,1.0,Yes
+1693,50,Customer Service,9.4,Vast,1.0,9.7,No
+1694,53,IT,9.4,Vast,0.8,17.5,No
+1695,40,Operations,9.4,Vast,1.0,14.0,No
+1696,42,Customer Service,9.4,Tijdelijk,1.0,11.6,Yes
+1697,26,Operations,9.4,Tijdelijk,1.0,9.5,No
+1698,39,IT,9.4,Tijdelijk,1.0,5.2,No
+1699,49,Sales,9.4,Vast,1.0,4.9,Yes
+1700,43,Customer Service,9.4,Vast,1.0,10.4,No
+1701,42,Sales,9.4,Vast,0.6,2.6,No
+1702,27,Operations,9.4,Vast,0.8,6.2,Yes
+1703,22,Operations,9.4,Vast,0.8,5.9,No
+1704,26,Sales,9.4,Vast,1.0,13.3,No
+1705,33,Sales,9.4,Vast,1.0,1.0,No
+1706,47,HR,9.4,Tijdelijk,1.0,26.6,No
+1707,55,IT,9.4,Vast,1.0,12.4,Yes
+1708,35,Customer Service,9.4,Vast,1.0,16.7,No
+1709,47,IT,9.4,Vast,1.0,18.2,Yes
+1710,48,Operations,9.4,Tijdelijk,0.8,5.2,No
+1711,30,IT,9.4,Tijdelijk,1.0,9.5,No
+1712,47,Operations,9.4,Tijdelijk,1.0,46.9,No
+1713,43,Sales,9.4,Tijdelijk,1.0,21.8,No
+1714,51,Sales,9.4,Vast,1.0,52.4,No
+1715,38,IT,9.4,Vast,1.0,20.6,No
+1716,47,Sales,9.4,Vast,0.8,2.9,No
+1717,57,IT,9.4,Vast,1.0,1.0,No
+1718,22,HR,9.4,Vast,1.0,12.9,No
+1719,29,Customer Service,9.4,Vast,1.0,6.6,No
+1720,56,Operations,9.4,Tijdelijk,1.0,4.8,No
+1721,36,Sales,9.4,Tijdelijk,1.0,24.7,No
+1722,43,Operations,9.4,Tijdelijk,1.0,6.9,No
+1723,35,IT,9.4,Tijdelijk,1.0,5.7,No
+1724,47,Operations,9.4,Vast,1.0,28.5,No
+1725,49,HR,9.4,Vast,1.0,28.1,No
+1726,44,Sales,9.4,Vast,1.0,6.6,No
+1727,35,IT,9.4,Vast,1.0,26.8,No
+1728,45,Customer Service,9.4,Tijdelijk,1.0,28.5,No
+1729,23,Sales,9.4,Vast,0.6,8.3,No
+1730,47,Customer Service,9.4,Tijdelijk,1.0,1.0,Yes
+1731,35,Sales,9.4,Vast,0.8,0.0,No
+1732,28,Sales,9.4,Vast,1.0,11.1,No
+1733,24,IT,9.4,Vast,0.8,6.3,No
+1734,44,IT,9.4,Vast,0.8,87.8,No
+1735,39,Customer Service,9.4,Vast,0.8,22.2,Yes
+1736,59,Operations,9.4,Vast,0.8,21.5,No
+1737,56,Customer Service,9.4,Tijdelijk,0.8,46.6,No
+1738,36,Sales,9.4,Vast,1.0,32.8,No
+1739,46,IT,9.4,Vast,1.0,5.7,No
+1740,58,IT,9.4,Vast,1.0,2.7,No
+1741,49,Operations,9.4,Vast,1.0,20.5,No
+1742,31,Customer Service,9.4,Tijdelijk,0.8,7.1,No
+1743,38,Operations,9.4,Vast,1.0,9.6,No
+1744,43,Operations,9.4,Tijdelijk,0.8,14.9,No
+1745,47,Operations,9.4,Vast,0.8,35.8,No
+1746,46,IT,9.4,Tijdelijk,1.0,8.1,No
+1747,38,Sales,9.4,Vast,0.8,22.9,No
+1748,34,IT,9.4,Vast,1.0,4.7,No
+1749,41,Customer Service,9.4,Vast,0.8,18.0,No
+1750,46,Operations,9.4,Vast,1.0,0.0,No
+1751,25,Operations,9.4,Vast,1.0,30.8,No
+1752,31,Sales,9.4,Vast,0.8,0.5,No
+1753,24,Operations,9.4,Vast,1.0,18.7,No
+1754,39,Customer Service,9.4,Vast,0.8,0.7,No
+1755,57,Sales,9.4,Vast,1.0,4.6,No
+1756,43,IT,9.4,Tijdelijk,0.6,10.3,No
+1757,55,Sales,9.4,Vast,1.0,8.2,No
+1758,29,IT,9.4,Vast,1.0,3.2,No
+1759,40,IT,9.4,Vast,0.8,6.1,No
+1760,58,Customer Service,9.4,Tijdelijk,1.0,19.5,No
+1761,27,HR,9.4,Vast,1.0,16.6,Yes
+1762,47,Customer Service,9.4,Vast,1.0,1.1,No
+1763,55,Sales,9.4,Tijdelijk,1.0,20.6,No
+1764,27,Sales,9.4,Tijdelijk,0.8,0.8,No
+1765,58,IT,9.4,Vast,1.0,11.7,No
+1766,54,Operations,9.4,Vast,0.8,4.5,No
+1767,43,Customer Service,9.4,Tijdelijk,0.8,13.3,No
+1768,42,Operations,9.4,Vast,1.0,4.5,No
+1769,27,Customer Service,9.4,Vast,1.0,63.0,No
+1770,27,Finance,9.4,Vast,1.0,5.6,No
+1771,25,IT,9.4,Tijdelijk,0.8,4.2,Yes
+1772,51,Sales,9.4,Vast,1.0,4.9,Yes
+1773,32,Finance,9.4,Tijdelijk,0.6,34.0,No
+1774,51,Operations,9.4,Vast,0.6,15.2,No
+1775,52,Customer Service,9.4,Vast,0.6,19.7,No
+1776,45,Sales,9.4,Vast,1.0,37.5,No
+1777,30,IT,9.4,Vast,1.0,36.4,No
+1778,24,Sales,9.4,Tijdelijk,0.6,20.1,No
+1779,52,Customer Service,9.4,Tijdelijk,1.0,3.3,Yes
+1780,58,IT,9.4,Vast,0.8,27.8,No
+1781,57,Customer Service,9.4,Vast,1.0,3.4,No
+1782,45,Operations,9.4,Vast,1.0,20.4,No
+1783,52,HR,9.4,Vast,1.0,17.4,No
+1784,27,Finance,9.4,Vast,1.0,21.3,Yes
+1785,23,Operations,9.4,Vast,1.0,11.4,Yes
+1786,41,Operations,9.4,Vast,1.0,15.3,No
+1787,49,HR,9.4,Tijdelijk,1.0,46.0,No
+1788,32,Sales,9.4,Tijdelijk,1.0,1.6,No
+1789,25,Finance,9.4,Vast,0.8,5.5,No
+1790,36,IT,9.4,Tijdelijk,0.8,14.2,Yes
+1791,27,Customer Service,9.4,Vast,1.0,49.9,Yes
+1792,51,Finance,9.4,Vast,1.0,1.5,No
+1793,59,Customer Service,9.4,Vast,0.8,0.3,No
+1794,23,IT,9.4,Vast,1.0,0.9,No
+1795,36,Sales,9.4,Vast,1.0,0.8,No
+1796,32,Sales,9.4,Vast,1.0,35.8,No
+1797,29,Operations,9.4,Tijdelijk,1.0,19.2,No
+1798,47,Sales,9.4,Tijdelijk,1.0,17.0,No
+1799,26,IT,9.4,Vast,1.0,11.1,No
+1800,27,Finance,9.4,Tijdelijk,1.0,22.8,No
+1801,47,Sales,9.4,Vast,1.0,2.5,No
+1802,25,IT,9.4,Vast,1.0,7.5,No
+1803,40,Finance,9.4,Vast,1.0,10.1,No
+1804,41,Sales,9.4,Vast,0.8,1.8,No
+1805,54,IT,9.4,Vast,1.0,8.2,No
+1806,41,Customer Service,9.4,Vast,1.0,5.7,Yes
+1807,33,Customer Service,9.4,Vast,0.8,0.5,No
+1808,22,Sales,9.4,Tijdelijk,0.8,2.2,Yes
+1809,47,IT,9.4,Vast,1.0,21.7,No
+1810,35,HR,9.4,Vast,1.0,0.3,No
+1811,59,Sales,9.4,Vast,0.8,40.8,No
+1812,58,Operations,9.4,Vast,0.8,1.4,Yes
+1813,32,Sales,9.4,Vast,0.6,24.1,Yes
+1814,57,Sales,9.4,Tijdelijk,1.0,34.3,No
+1815,34,Sales,9.4,Vast,0.8,42.5,No
+1816,24,Operations,9.4,Vast,0.8,30.3,No
+1817,54,Sales,9.4,Vast,1.0,5.1,No
+1818,27,Customer Service,9.4,Vast,1.0,6.1,No
+1819,31,Operations,9.4,Vast,1.0,8.3,No
+1820,26,Finance,9.4,Vast,0.8,2.3,No
+1821,44,Customer Service,9.4,Tijdelijk,1.0,0.3,No
+1822,31,Sales,9.4,Vast,1.0,30.5,No
+1823,23,Operations,9.4,Vast,1.0,12.1,No
+1824,34,Sales,9.4,Vast,1.0,14.1,Yes
+1825,23,Sales,9.4,Vast,1.0,39.3,No
+1826,41,Customer Service,9.4,Vast,0.6,16.4,Yes
+1827,22,Sales,9.4,Tijdelijk,1.0,17.6,No
+1828,58,Customer Service,9.4,Vast,0.8,23.2,No
+1829,30,IT,9.4,Vast,1.0,1.9,No
+1830,38,IT,9.4,Vast,0.8,6.7,No
+1831,30,Sales,9.4,Vast,0.8,51.7,Yes
+1832,32,Operations,9.4,Vast,1.0,38.4,No
+1833,36,Operations,9.4,Vast,0.8,32.3,No
+1834,45,Operations,9.4,Vast,1.0,9.0,No
+1835,59,Operations,9.4,Vast,0.6,29.2,No
+1836,56,IT,9.4,Tijdelijk,0.6,0.7,No
+1837,51,Customer Service,9.4,Vast,1.0,2.4,No
+1838,52,Operations,9.4,Vast,1.0,8.0,No
+1839,26,Finance,9.4,Vast,1.0,9.9,No
+1840,35,HR,9.4,Vast,0.8,4.6,No
+1841,32,Customer Service,9.4,Vast,1.0,6.6,No
+1842,30,IT,9.4,Vast,1.0,2.7,No
+1843,55,Customer Service,9.4,Vast,1.0,10.1,No
+1844,33,Sales,9.4,Vast,1.0,23.7,No
+1845,56,Sales,9.4,Vast,1.0,16.2,Yes
+1846,56,Sales,9.4,Vast,1.0,1.7,Yes
+1847,22,Customer Service,9.4,Tijdelijk,1.0,10.0,No
+1848,43,Operations,9.4,Vast,1.0,17.9,No
+1849,50,Finance,9.4,Vast,1.0,11.3,No
+1850,29,Sales,9.4,Vast,0.6,7.5,No
+1851,32,HR,9.4,Vast,0.8,14.6,No
+1852,58,Customer Service,9.4,Vast,1.0,51.9,Yes
+1853,35,Operations,9.4,Vast,0.8,1.5,No
+1854,51,Customer Service,9.4,Tijdelijk,0.8,7.4,No
+1855,56,IT,9.4,Vast,0.8,7.8,No
+1856,42,IT,9.4,Vast,0.8,12.9,No
+1857,58,IT,9.4,Vast,1.0,2.5,No
+1858,26,Operations,9.4,Vast,1.0,2.9,No
+1859,40,Sales,9.4,Vast,1.0,5.0,Yes
+1860,35,IT,9.4,Tijdelijk,0.6,46.8,No
+1861,47,IT,9.4,Vast,1.0,19.9,No
+1862,25,Customer Service,9.4,Tijdelijk,1.0,16.3,No
+1863,46,Customer Service,9.4,Tijdelijk,1.0,25.5,No
+1864,46,Customer Service,9.4,Tijdelijk,1.0,2.0,Yes
+1865,39,Customer Service,9.4,Vast,0.8,29.4,No
+1866,29,Finance,9.4,Vast,1.0,13.6,No
+1867,35,IT,9.4,Vast,1.0,6.1,No
+1868,53,Operations,9.4,Vast,1.0,25.4,No
+1869,59,Finance,9.4,Vast,1.0,24.3,No
+1870,54,Operations,9.4,Tijdelijk,0.8,28.0,No
+1871,44,Finance,9.4,Vast,1.0,1.8,No
+1872,36,IT,9.4,Vast,1.0,52.3,No
+1873,54,Operations,9.4,Vast,0.8,48.1,No
+1874,46,Sales,9.4,Vast,1.0,6.6,No
+1875,38,Sales,9.4,Vast,0.8,1.0,Yes
+1876,54,Sales,9.4,Tijdelijk,0.8,2.7,No
+1877,23,Finance,9.4,Vast,0.6,74.1,Yes
+1878,35,IT,9.4,Tijdelijk,0.8,12.4,No
+1879,27,IT,9.4,Tijdelijk,1.0,6.6,No
+1880,27,Customer Service,9.4,Tijdelijk,0.6,5.1,Yes
+1881,24,Finance,9.4,Vast,0.8,4.5,No
+1882,28,IT,9.4,Tijdelijk,1.0,16.4,No
+1883,29,Customer Service,9.4,Vast,1.0,8.2,Yes
+1884,36,Operations,9.4,Vast,1.0,50.5,No
+1885,50,Sales,9.4,Vast,1.0,17.3,No
+1886,54,IT,9.4,Vast,1.0,23.6,No
+1887,51,Finance,9.4,Vast,0.8,5.2,No
+1888,48,Finance,9.4,Vast,1.0,1.2,No
+1889,57,Operations,9.4,Vast,0.8,10.0,No
+1890,50,Customer Service,9.4,Tijdelijk,1.0,5.7,No
+1891,59,Operations,9.4,Vast,0.8,3.4,No
+1892,54,Operations,9.4,Vast,1.0,45.8,No
+1893,58,IT,9.4,Vast,1.0,8.8,No
+1894,48,Operations,9.4,Vast,1.0,2.9,No
+1895,54,IT,9.4,Tijdelijk,0.8,3.3,No
+1896,25,Sales,9.4,Vast,1.0,4.9,No
+1897,43,Customer Service,9.4,Vast,1.0,109.3,No
+1898,23,Sales,9.4,Vast,1.0,4.7,No
+1899,31,Operations,9.4,Tijdelijk,0.6,6.0,No
+1900,26,IT,9.4,Vast,0.8,16.2,No
+1901,31,Operations,9.4,Tijdelijk,1.0,5.2,No
+1902,54,Operations,9.4,Vast,1.0,3.6,No
+1903,59,HR,9.4,Vast,1.0,2.6,No
+1904,34,IT,9.4,Vast,1.0,5.6,No
+1905,52,Finance,9.4,Tijdelijk,1.0,1.7,Yes
+1906,57,Customer Service,9.4,Vast,1.0,0.3,No
+1907,45,Sales,9.4,Vast,1.0,24.5,No
+1908,36,Customer Service,9.4,Vast,0.8,2.2,No
+1909,50,Sales,9.4,Vast,1.0,22.4,No
+1910,29,Sales,9.4,Vast,0.8,24.0,No
+1911,26,Sales,9.4,Tijdelijk,0.8,11.6,No
+1912,50,Sales,9.4,Vast,0.8,5.6,No
+1913,25,Operations,9.4,Vast,0.8,2.4,No
+1914,33,Operations,9.4,Tijdelijk,1.0,20.0,No
+1915,23,Operations,9.4,Vast,1.0,13.8,No
+1916,48,Sales,9.4,Vast,1.0,16.0,No
+1917,52,IT,9.4,Vast,0.8,0.1,Yes
+1918,57,Customer Service,9.4,Vast,1.0,39.4,No
+1919,57,Finance,9.4,Vast,0.6,1.0,No
+1920,47,Operations,9.4,Vast,1.0,6.9,No
+1921,48,IT,9.4,Vast,1.0,7.7,Yes
+1922,26,Customer Service,9.4,Vast,1.0,0.0,No
+1923,41,Customer Service,9.4,Tijdelijk,1.0,10.3,No
+1924,32,Finance,9.4,Tijdelijk,1.0,21.0,No
+1925,31,Operations,9.4,Tijdelijk,0.8,26.0,No
+1926,59,Operations,9.4,Tijdelijk,1.0,31.7,No
+1927,27,IT,9.4,Vast,1.0,10.0,No
+1928,29,IT,9.4,Tijdelijk,0.8,14.9,No
+1929,44,HR,9.4,Vast,1.0,1.2,No
+1930,47,Finance,9.4,Vast,1.0,10.0,Yes
+1931,33,Sales,9.4,Vast,1.0,2.5,No
+1932,47,Customer Service,9.4,Vast,0.8,6.9,No
+1933,34,Sales,9.4,Tijdelijk,0.6,6.0,No
+1934,39,Sales,9.4,Tijdelijk,1.0,8.3,No
+1935,46,Operations,9.4,Vast,0.6,12.7,No
+1936,54,Customer Service,9.4,Tijdelijk,1.0,35.0,No
+1937,33,IT,9.4,Vast,1.0,7.5,No
+1938,57,Customer Service,9.4,Vast,1.0,59.6,No
+1939,25,Customer Service,9.4,Vast,1.0,21.3,No
+1940,26,IT,9.4,Vast,1.0,10.7,No
+1941,58,Sales,9.4,Tijdelijk,0.8,15.5,No
+1942,29,Customer Service,9.4,Tijdelijk,0.8,1.6,No
+1943,49,Sales,9.4,Tijdelijk,1.0,27.9,Yes
+1944,52,Customer Service,9.4,Vast,1.0,13.1,Yes
+1945,30,Customer Service,9.4,Tijdelijk,1.0,64.1,No
+1946,50,Operations,9.4,Vast,1.0,15.2,Yes
+1947,35,Operations,9.4,Tijdelijk,1.0,26.9,No
+1948,43,Customer Service,9.4,Vast,0.8,24.1,No
+1949,32,Finance,9.4,Vast,0.6,6.4,No
+1950,44,IT,9.4,Vast,0.8,4.5,Yes
+1951,22,IT,9.4,Vast,1.0,8.4,No
+1952,58,Sales,9.4,Vast,1.0,9.4,No
+1953,42,Customer Service,9.4,Vast,1.0,4.1,No
+1954,47,Customer Service,9.4,Vast,1.0,33.7,No
+1955,57,Finance,9.4,Vast,1.0,11.7,No
+1956,44,IT,9.4,Vast,1.0,57.6,No
+1957,22,Operations,9.4,Vast,0.6,24.9,No
+1958,36,Customer Service,9.4,Vast,1.0,12.2,No
+1959,42,IT,9.4,Vast,1.0,44.1,No
+1960,30,Operations,9.4,Vast,0.8,10.5,No
+1961,30,IT,9.4,Tijdelijk,1.0,32.7,No
+1962,31,Finance,9.4,Tijdelijk,1.0,6.7,No
+1963,47,Customer Service,9.4,Vast,0.8,7.1,No
+1964,56,Operations,9.4,Tijdelijk,1.0,8.1,No
+1965,46,Sales,9.4,Tijdelijk,1.0,11.9,No
+1966,47,Sales,9.4,Tijdelijk,0.6,12.1,No
+1967,32,Customer Service,9.4,Vast,1.0,10.3,No
+1968,59,IT,9.4,Vast,0.8,5.5,No
+1969,23,Sales,9.4,Vast,1.0,39.3,No
+1970,28,Operations,9.4,Vast,0.8,13.3,No
+1971,39,Customer Service,9.4,Vast,1.0,7.9,No
+1972,48,Sales,9.4,Vast,1.0,15.8,No
+1973,55,IT,9.4,Tijdelijk,0.8,21.9,No
+1974,48,Sales,9.4,Tijdelijk,1.0,48.6,No
+1975,38,HR,9.4,Vast,1.0,10.4,No
+1976,45,IT,9.4,Vast,1.0,1.8,No
+1977,46,Customer Service,9.4,Vast,1.0,8.7,No
+1978,28,IT,9.4,Tijdelijk,1.0,9.8,No
+1979,27,Sales,9.4,Vast,0.8,34.1,No
+1980,45,Operations,9.4,Vast,0.6,7.5,No
+1981,54,Finance,9.4,Vast,1.0,46.0,No
+1982,50,Operations,9.4,Vast,1.0,10.0,No
+1983,43,Customer Service,9.4,Vast,0.8,54.6,No
+1984,47,Finance,9.4,Vast,1.0,0.1,No
+1985,49,Sales,9.4,Tijdelijk,0.8,34.4,No
+1986,42,HR,9.4,Tijdelijk,1.0,40.1,No
+1987,28,HR,9.4,Tijdelijk,0.8,48.7,No
+1988,38,IT,9.4,Tijdelijk,0.6,0.2,No
+1989,41,Operations,9.4,Vast,1.0,2.8,No
+1990,41,Customer Service,9.4,Vast,0.8,15.9,Yes
+1991,43,IT,9.4,Tijdelijk,1.0,0.4,No
+1992,49,Finance,9.4,Tijdelijk,0.8,1.0,No
+1993,28,Customer Service,9.4,Vast,1.0,3.7,No
+1994,22,IT,9.4,Vast,1.0,10.8,No
+1995,53,Finance,9.4,Vast,0.6,11.8,Yes
+1996,34,Sales,9.4,Vast,1.0,0.5,No
+1997,51,Sales,9.4,Vast,1.0,2.8,No
+1998,44,IT,9.4,Vast,1.0,10.4,No
+1999,40,IT,9.4,Vast,1.0,13.5,No
+2000,53,Finance,9.4,Vast,1.0,2.4,No
+2001,51,Customer Service,9.4,Tijdelijk,0.6,7.6,No
+2002,50,HR,9.4,Vast,0.8,35.2,No
+2003,50,Sales,9.4,Vast,1.0,102.2,Yes
+2004,51,IT,9.4,Vast,1.0,65.4,No
+2005,37,Finance,9.4,Tijdelijk,0.6,32.0,Yes
+2006,40,Operations,9.4,Vast,1.0,7.5,No
+2007,39,Customer Service,9.4,Tijdelijk,1.0,17.4,Yes
+2008,22,Customer Service,9.4,Vast,1.0,8.1,No
+2009,35,Finance,9.4,Tijdelijk,0.8,15.7,No
+2010,23,Customer Service,9.4,Tijdelijk,1.0,5.6,No
+2011,49,IT,9.4,Vast,0.8,14.0,No
+2012,51,Finance,9.4,Vast,1.0,11.1,No
+2013,59,Operations,9.4,Vast,1.0,0.4,Yes
+2014,25,Customer Service,9.4,Vast,1.0,23.5,Yes
+2015,22,Operations,9.4,Vast,0.8,0.2,No
+2016,29,Finance,9.4,Vast,0.8,5.2,No
+2017,50,Customer Service,9.4,Vast,1.0,0.1,No
+2018,24,IT,9.4,Vast,1.0,7.1,Yes
+2019,53,Operations,9.4,Vast,0.8,1.0,Yes
+2020,31,HR,9.4,Vast,1.0,36.7,No
+2021,31,Sales,9.4,Vast,0.8,8.1,Yes
+2022,40,Operations,9.4,Vast,0.8,9.2,Yes
+2023,55,Operations,9.4,Vast,0.6,6.5,Yes
+2024,54,IT,9.4,Vast,0.6,14.8,Yes
+2025,44,Customer Service,9.4,Tijdelijk,0.8,23.0,No
+2026,49,Sales,9.4,Vast,1.0,15.7,Yes
+2027,53,IT,9.4,Vast,1.0,20.7,No
+2028,28,Operations,9.4,Vast,1.0,35.5,No
+2029,50,Operations,9.4,Tijdelijk,0.8,29.9,No
+2030,29,IT,9.4,Tijdelijk,0.8,16.8,No
+2031,22,Operations,9.4,Tijdelijk,0.8,3.6,Yes
+2032,24,Operations,9.4,Vast,0.8,15.2,No
+2033,45,Operations,9.4,Vast,1.0,10.6,No
+2034,44,Finance,9.4,Vast,1.0,18.9,No
+2035,29,Operations,9.4,Vast,0.8,26.8,Yes
+2036,58,Sales,9.4,Tijdelijk,0.8,20.4,No
+2037,24,Sales,9.4,Vast,0.6,28.1,No
+2038,54,Sales,9.4,Tijdelijk,0.8,1.0,No
+2039,49,Finance,9.4,Vast,1.0,0.5,No
+2040,29,Sales,9.4,Tijdelijk,0.8,4.5,No
+2041,55,Customer Service,9.4,Vast,1.0,34.6,No
+2042,56,Finance,9.4,Vast,1.0,26.0,No
+2043,53,Sales,9.4,Vast,1.0,17.2,No
+2044,45,Customer Service,9.4,Vast,1.0,18.1,Yes
+2045,35,Sales,9.4,Vast,1.0,19.5,No
+2046,53,Operations,9.4,Tijdelijk,0.6,42.9,No
+2047,37,Operations,9.4,Vast,1.0,26.8,No
+2048,25,IT,9.4,Vast,1.0,14.6,No
+2049,58,Customer Service,9.4,Vast,0.6,16.4,No
+2050,42,Finance,9.4,Vast,1.0,3.6,No
+2051,35,Customer Service,9.4,Tijdelijk,1.0,16.1,No
+2052,52,Sales,9.4,Tijdelijk,1.0,8.3,No
+2053,39,Sales,9.4,Tijdelijk,0.6,2.5,Yes
+2054,28,IT,9.4,Tijdelijk,0.6,24.6,No
+2055,31,Finance,9.4,Tijdelijk,1.0,10.7,Yes
+2056,28,Sales,9.4,Vast,0.8,56.9,No
+2057,54,Customer Service,9.4,Tijdelijk,1.0,5.0,No
+2058,44,Operations,9.4,Vast,1.0,9.8,No
+2059,42,Sales,9.4,Vast,0.8,8.9,No
+2060,40,Finance,9.4,Vast,1.0,1.9,Yes
+2061,40,Sales,9.4,Tijdelijk,1.0,8.3,No
+2062,57,Sales,9.4,Tijdelijk,0.8,5.1,No
+2063,50,HR,9.4,Vast,1.0,2.6,No
+2064,39,Operations,9.4,Tijdelijk,1.0,5.0,Yes
+2065,23,Finance,9.4,Tijdelijk,1.0,4.0,No
+2066,22,Sales,9.4,Vast,1.0,19.9,Yes
+2067,26,Customer Service,9.4,Vast,1.0,0.5,No
+2068,41,Customer Service,9.4,Tijdelijk,1.0,14.4,Yes
+2069,32,Operations,9.4,Vast,1.0,21.4,No
+2070,23,Operations,9.4,Vast,1.0,9.8,No
+2071,24,Customer Service,9.4,Vast,1.0,40.2,No
+2072,44,Sales,9.4,Vast,1.0,18.5,No
+2073,33,Customer Service,9.4,Tijdelijk,0.8,20.7,No
+2074,41,IT,9.4,Vast,1.0,3.3,No
+2075,26,Sales,9.4,Tijdelijk,1.0,22.5,No
+2076,58,Customer Service,9.4,Tijdelijk,0.8,26.8,No
+2077,59,Customer Service,9.4,Tijdelijk,1.0,6.7,No
+2078,51,Operations,9.4,Vast,0.8,3.6,Yes
+2079,30,Finance,9.4,Vast,0.8,7.3,No
+2080,55,Sales,9.4,Vast,1.0,20.2,No
+2081,56,IT,9.4,Vast,1.0,8.1,Yes
+2082,43,Finance,9.4,Tijdelijk,0.6,20.0,No
+2083,45,Finance,9.4,Vast,1.0,1.8,No
+2084,38,Customer Service,9.4,Vast,1.0,24.6,No
+2085,31,Sales,9.4,Vast,0.6,4.4,No
+2086,51,Operations,9.4,Tijdelijk,1.0,4.3,No
+2087,44,IT,9.4,Tijdelijk,1.0,13.4,No
+2088,53,Operations,9.4,Vast,1.0,1.1,No
+2089,38,Operations,9.4,Tijdelijk,1.0,0.4,Yes
+2090,38,HR,9.4,Vast,1.0,4.5,No
+2091,35,Operations,9.4,Vast,0.8,11.6,No
+2092,30,Customer Service,9.4,Tijdelijk,0.8,35.7,No
+2093,23,Customer Service,9.4,Vast,1.0,28.1,No
+2094,46,Sales,9.4,Tijdelijk,1.0,10.1,No
+2095,30,Customer Service,9.4,Vast,0.6,0.6,Yes
+2096,43,HR,9.4,Vast,1.0,11.5,No
+2097,25,Sales,9.4,Tijdelijk,1.0,18.3,No
+2098,47,IT,9.4,Vast,0.8,6.2,No
+2099,50,Sales,9.4,Tijdelijk,0.6,1.8,No
+2100,55,Sales,9.4,Tijdelijk,0.8,4.9,No
+2101,44,Customer Service,9.4,Vast,1.0,22.1,No
+2102,58,Sales,9.4,Vast,0.8,6.5,No
+2103,32,Customer Service,9.4,Vast,1.0,25.1,No
+2104,27,Finance,9.4,Vast,1.0,5.8,No
+2105,39,IT,9.4,Vast,1.0,2.7,No
+2106,42,Customer Service,9.4,Vast,0.8,8.6,No
+2107,57,Sales,9.4,Vast,1.0,9.0,No
+2108,59,Operations,9.4,Vast,1.0,0.2,No
+2109,55,Finance,9.4,Tijdelijk,1.0,1.9,No
+2110,38,IT,9.4,Tijdelijk,1.0,3.1,No
+2111,58,Sales,9.4,Tijdelijk,1.0,1.8,No
+2112,46,Sales,9.4,Vast,1.0,6.3,No
+2113,59,Operations,9.4,Tijdelijk,0.8,50.1,No
+2114,33,Customer Service,9.4,Vast,0.8,10.7,No
+2115,44,Sales,9.4,Tijdelijk,0.8,14.8,No
+2116,43,Operations,9.4,Tijdelijk,1.0,6.6,No
+2117,42,Sales,9.4,Vast,0.8,5.9,No
+2118,48,Customer Service,9.4,Vast,0.8,0.4,No
+2119,52,IT,9.4,Tijdelijk,1.0,10.4,No
+2120,27,Operations,9.4,Tijdelijk,0.8,9.9,Yes
+2121,48,IT,9.4,Tijdelijk,0.8,2.6,No
+2122,55,IT,9.4,Vast,0.6,21.7,No
+2123,33,Customer Service,9.4,Vast,1.0,10.2,No
+2124,28,Finance,9.4,Vast,1.0,6.2,No
+2125,31,Operations,9.4,Tijdelijk,0.8,2.4,No
+2126,38,Finance,9.4,Vast,1.0,12.0,No
+2127,47,Operations,9.4,Tijdelijk,1.0,21.0,No
+2128,42,Customer Service,9.4,Vast,1.0,5.0,Yes
+2129,49,Customer Service,9.4,Vast,1.0,3.7,No
+2130,23,Operations,9.4,Vast,1.0,11.1,No
+2131,22,Customer Service,9.4,Tijdelijk,1.0,2.5,No
+2132,57,HR,9.4,Vast,0.8,16.5,No
+2133,47,Operations,9.4,Vast,0.6,13.9,No
+2134,50,Operations,9.4,Vast,0.6,1.4,No
+2135,42,Sales,9.4,Vast,1.0,0.6,No
+2136,32,HR,9.4,Vast,1.0,14.5,No
+2137,32,Customer Service,9.4,Tijdelijk,1.0,5.2,No
+2138,57,HR,9.4,Vast,0.6,1.4,No
+2139,56,Customer Service,9.4,Vast,1.0,21.4,No
+2140,55,Sales,9.4,Tijdelijk,1.0,5.7,No
+2141,45,Customer Service,9.4,Tijdelijk,1.0,9.2,No
+2142,43,HR,9.4,Vast,1.0,4.1,No
+2143,26,Operations,9.4,Vast,1.0,14.8,Yes
+2144,54,Sales,9.4,Tijdelijk,1.0,5.4,No
+2145,57,Customer Service,9.4,Tijdelijk,1.0,51.6,Yes
+2146,41,IT,9.4,Tijdelijk,1.0,18.2,No
+2147,40,Customer Service,9.4,Vast,0.8,2.2,No
+2148,56,IT,9.4,Vast,0.6,8.1,No
+2149,38,Sales,9.4,Tijdelijk,1.0,7.3,No
+2150,55,Customer Service,9.4,Vast,0.8,11.5,No
+2151,30,Operations,9.4,Vast,1.0,27.7,Yes
+2152,47,Operations,9.4,Tijdelijk,0.8,13.1,No
+2153,23,Operations,9.4,Vast,1.0,1.0,No
+2154,30,Customer Service,9.4,Vast,0.8,16.0,Yes
+2155,30,IT,9.4,Vast,0.8,0.1,No
+2156,38,Customer Service,9.4,Vast,1.0,22.7,No
+2157,22,IT,9.4,Vast,0.8,16.5,No
+2158,46,Customer Service,9.4,Tijdelijk,0.8,5.5,Yes
+2159,46,Customer Service,9.4,Vast,0.8,5.2,No
+2160,56,Sales,9.4,Vast,1.0,24.0,No
+2161,24,Sales,9.4,Tijdelijk,0.8,22.9,No
+2162,58,Sales,9.4,Vast,1.0,6.5,Yes
+2163,51,Sales,9.4,Vast,1.0,5.3,No
+2164,59,IT,9.4,Tijdelijk,1.0,12.3,No
+2165,55,IT,9.4,Tijdelijk,1.0,0.1,No
+2166,33,IT,9.4,Vast,1.0,1.3,No
+2167,40,Operations,9.4,Tijdelijk,0.8,2.0,Yes
+2168,58,Operations,9.4,Vast,1.0,3.1,Yes
+2169,38,Sales,9.4,Tijdelijk,0.8,10.8,No
+2170,31,Customer Service,9.4,Vast,1.0,72.9,No
+2171,33,Operations,9.4,Tijdelijk,1.0,15.9,No
+2172,37,Sales,9.4,Vast,1.0,0.9,No
+2173,45,Operations,9.4,Vast,1.0,11.2,No
+2174,40,Customer Service,9.4,Vast,0.8,10.3,No
+2175,29,Customer Service,9.4,Vast,1.0,2.3,Yes
+2176,52,Customer Service,9.4,Tijdelijk,1.0,37.9,No
+2177,42,Customer Service,9.4,Vast,0.8,8.7,No
+2178,38,IT,9.4,Vast,1.0,78.2,Yes
+2179,44,Customer Service,9.4,Vast,1.0,8.2,No
+2180,58,HR,9.4,Vast,1.0,14.0,No
+2181,37,Operations,9.4,Tijdelijk,1.0,1.7,No
+2182,27,Customer Service,9.4,Tijdelijk,0.8,9.1,No
+2183,29,IT,9.4,Vast,0.8,4.1,No
+2184,46,Finance,9.4,Tijdelijk,1.0,27.1,Yes
+2185,39,Operations,9.4,Tijdelijk,1.0,23.0,No
+2186,46,Operations,9.4,Vast,0.8,26.1,No
+2187,33,Finance,9.4,Vast,0.8,19.3,No
+2188,36,Sales,9.4,Tijdelijk,1.0,26.8,No
+2189,47,Operations,9.4,Vast,0.8,3.4,No
+2190,47,Operations,9.4,Tijdelijk,0.8,9.0,No
+2191,53,Customer Service,9.4,Vast,0.8,17.7,No
+2192,31,IT,9.4,Vast,0.8,15.2,No
+2193,37,Operations,9.4,Vast,1.0,18.9,No
+2194,28,Customer Service,9.4,Vast,1.0,3.8,No
+2195,38,Customer Service,9.4,Tijdelijk,0.8,1.6,No
+2196,44,Operations,9.4,Vast,0.8,37.3,No
+2197,47,HR,9.4,Vast,0.8,12.3,No
+2198,42,Customer Service,9.4,Tijdelijk,1.0,2.5,No
+2199,43,Customer Service,9.4,Vast,0.8,23.7,No
+2200,28,Sales,9.4,Vast,1.0,37.0,No
+2201,35,Operations,9.4,Tijdelijk,1.0,2.8,No
+2202,36,Operations,9.4,Tijdelijk,0.6,25.5,Yes
+2203,28,Operations,9.4,Vast,0.6,40.6,No
+2204,30,Sales,9.4,Vast,0.6,41.8,No
+2205,29,IT,9.4,Vast,1.0,36.8,No
+2206,44,Sales,9.4,Vast,1.0,11.9,No
+2207,50,Operations,9.4,Vast,0.6,6.6,No
+2208,39,Operations,9.4,Vast,1.0,0.1,No
+2209,52,Customer Service,9.4,Vast,0.8,0.9,No
+2210,51,Sales,9.4,Vast,1.0,8.4,No
+2211,56,IT,9.4,Vast,1.0,7.6,No
+2212,39,Customer Service,9.4,Vast,1.0,3.1,No
+2213,38,IT,9.4,Tijdelijk,1.0,7.5,No
+2214,35,Finance,9.4,Tijdelijk,1.0,2.9,No
+2215,52,HR,9.4,Vast,1.0,28.3,No
+2216,45,Operations,9.4,Vast,1.0,5.3,No
+2217,56,Customer Service,9.4,Vast,1.0,13.7,No
+2218,55,Sales,9.4,Vast,0.8,10.5,No
+2219,24,Sales,9.4,Vast,0.8,0.8,No
+2220,58,IT,9.4,Vast,1.0,42.8,Yes
+2221,47,Operations,9.4,Vast,1.0,11.2,No
+2222,44,Customer Service,9.4,Tijdelijk,1.0,5.9,No
+2223,36,Operations,9.4,Vast,1.0,2.6,No
+2224,25,Sales,9.4,Vast,1.0,6.2,No
+2225,50,Sales,9.4,Tijdelijk,1.0,0.3,No
+2226,43,Sales,9.4,Vast,1.0,6.8,No
+2227,46,IT,9.4,Vast,1.0,11.4,No
+2228,34,Operations,9.4,Vast,0.8,30.8,No
+2229,39,Finance,9.4,Vast,0.8,17.4,No
+2230,54,Operations,9.4,Tijdelijk,1.0,1.8,No
+2231,37,Operations,9.4,Vast,0.8,2.4,No
+2232,23,IT,9.4,Vast,1.0,8.4,No
+2233,56,Operations,9.4,Vast,0.6,3.3,No
+2234,55,Customer Service,9.4,Vast,0.6,0.4,No
+2235,51,IT,9.4,Tijdelijk,1.0,24.5,No
+2236,34,IT,9.4,Tijdelijk,1.0,0.3,No
+2237,34,Operations,9.4,Vast,0.8,26.6,No
+2238,39,Finance,9.4,Vast,1.0,2.3,No
+2239,53,Sales,9.4,Vast,1.0,55.1,Yes
+2240,53,Operations,9.4,Tijdelijk,1.0,13.9,Yes
+2241,56,HR,9.4,Vast,0.6,19.9,No
+2242,50,Sales,9.4,Vast,1.0,1.8,No
+2243,50,Customer Service,9.4,Vast,1.0,29.7,No
+2244,37,Customer Service,9.4,Vast,0.8,27.4,No
+2245,31,Operations,9.4,Vast,1.0,15.9,Yes
+2246,51,Operations,9.4,Vast,1.0,10.5,No
+2247,46,IT,9.4,Vast,1.0,19.2,No
+2248,41,Operations,9.4,Vast,1.0,0.1,Yes
+2249,26,Customer Service,9.4,Vast,0.8,13.5,No
+2250,22,Operations,9.4,Tijdelijk,0.8,28.2,No
+2251,51,Operations,9.4,Vast,1.0,6.6,No
+2252,24,HR,9.4,Vast,1.0,1.7,No
+2253,35,Sales,9.4,Vast,1.0,8.2,Yes
+2254,51,IT,9.4,Vast,1.0,19.5,No
+2255,25,Operations,9.4,Vast,0.8,1.7,No
+2256,39,Operations,9.4,Tijdelijk,0.6,3.5,No
+2257,58,HR,9.4,Vast,1.0,2.4,No
+2258,46,IT,9.4,Tijdelijk,0.6,23.9,Yes
+2259,22,Operations,9.4,Vast,1.0,1.0,No
+2260,36,Sales,9.4,Vast,0.8,17.4,No
+2261,30,Operations,9.4,Vast,1.0,6.8,No
+2262,36,Sales,9.4,Vast,0.8,21.1,Yes
+2263,45,Sales,9.4,Tijdelijk,1.0,50.0,No
+2264,25,Operations,9.4,Tijdelijk,1.0,1.8,No
+2265,33,Customer Service,9.4,Tijdelijk,0.6,5.7,No
+2266,58,Sales,9.4,Tijdelijk,0.6,24.9,No
+2267,58,IT,9.4,Tijdelijk,0.8,4.6,No
+2268,27,Sales,9.4,Vast,1.0,3.6,No
+2269,45,HR,9.4,Vast,0.8,26.2,No
+2270,32,Finance,9.4,Vast,1.0,65.2,No
+2271,34,IT,9.4,Vast,1.0,12.2,No
+2272,55,Customer Service,9.4,Tijdelijk,1.0,4.9,No
+2273,46,Operations,9.4,Vast,0.8,7.6,No
+2274,28,IT,9.4,Vast,1.0,2.8,No
+2275,25,IT,9.4,Vast,0.6,21.5,No
+2276,29,IT,9.4,Vast,1.0,22.3,Yes
+2277,41,Customer Service,9.4,Vast,1.0,31.2,No
+2278,50,IT,9.4,Vast,1.0,0.4,No
+2279,31,IT,9.4,Vast,1.0,12.4,No
+2280,55,Customer Service,9.4,Vast,0.8,3.6,No
+2281,47,Operations,9.4,Vast,0.8,6.3,No
+2282,24,IT,9.4,Vast,1.0,23.1,No
+2283,27,IT,9.4,Vast,0.8,3.2,No
+2284,26,IT,9.4,Vast,1.0,15.3,No
+2285,26,Operations,9.4,Vast,1.0,15.9,No
+2286,44,Finance,9.4,Vast,1.0,46.2,No
+2287,30,IT,9.4,Vast,1.0,22.4,No
+2288,56,IT,9.4,Vast,1.0,24.4,No
+2289,41,HR,9.4,Vast,1.0,11.4,No
+2290,56,Finance,9.4,Vast,1.0,3.1,Yes
+2291,39,Operations,9.4,Vast,1.0,8.3,No
+2292,38,Sales,9.4,Tijdelijk,0.8,12.0,Yes
+2293,45,Operations,9.4,Vast,0.6,17.0,No
+2294,24,Sales,9.4,Tijdelijk,1.0,14.0,No
+2295,53,Sales,9.4,Vast,1.0,7.5,No
+2296,56,Operations,9.4,Vast,1.0,4.6,No
+2297,59,Customer Service,9.4,Vast,0.8,2.8,Yes
+2298,34,IT,9.4,Vast,0.8,17.8,No
+2299,46,HR,9.4,Vast,0.8,15.6,No
+2300,30,IT,9.4,Vast,0.8,17.4,No
+2301,25,HR,9.4,Vast,0.8,7.0,No
+2302,35,Sales,9.4,Vast,1.0,4.6,No
+2303,58,Customer Service,9.4,Vast,1.0,21.4,No
+2304,55,IT,9.4,Vast,1.0,22.3,No
+2305,32,Sales,9.4,Vast,0.8,9.1,No
+2306,24,Sales,9.4,Vast,0.8,14.2,No
+2307,49,Finance,9.4,Tijdelijk,1.0,7.0,No
+2308,50,Sales,9.4,Tijdelijk,1.0,18.2,No
+2309,30,Sales,9.4,Tijdelijk,0.6,27.1,Yes
+2310,24,Operations,9.4,Vast,1.0,17.5,No
+2311,46,Operations,9.4,Tijdelijk,0.8,10.8,No
+2312,55,Sales,9.4,Tijdelijk,1.0,9.2,No
+2313,33,IT,9.4,Vast,1.0,15.4,Yes
+2314,30,Customer Service,9.4,Vast,0.8,17.1,No
+2315,36,Finance,9.4,Tijdelijk,1.0,12.3,No
+2316,46,Customer Service,9.4,Vast,0.8,14.7,No
+2317,26,Operations,9.4,Vast,1.0,1.5,No
+2318,32,Customer Service,9.4,Vast,1.0,45.5,No
+2319,55,Customer Service,9.4,Vast,1.0,23.5,No
+2320,45,Finance,9.4,Tijdelijk,1.0,7.0,No
+2321,36,Sales,9.4,Vast,1.0,12.4,No
+2322,59,Operations,9.4,Vast,0.8,0.7,No
+2323,29,Customer Service,9.4,Vast,1.0,0.6,No
+2324,26,Sales,9.4,Vast,0.8,4.3,No
+2325,47,IT,9.4,Vast,0.8,17.6,No
+2326,39,Operations,9.4,Vast,1.0,28.7,No
+2327,27,Customer Service,9.4,Tijdelijk,0.8,12.3,No
+2328,58,Customer Service,9.4,Vast,0.8,11.4,Yes
+2329,34,Customer Service,9.4,Vast,1.0,7.7,No
+2330,49,Sales,9.4,Vast,0.8,2.6,No
+2331,26,Operations,9.4,Vast,1.0,1.9,No
+2332,34,IT,9.4,Tijdelijk,0.8,21.4,Yes
+2333,38,IT,9.4,Tijdelijk,0.6,39.4,No
+2334,53,IT,9.4,Tijdelijk,0.8,9.2,No
+2335,50,Operations,9.4,Vast,1.0,16.2,No
+2336,24,IT,9.4,Vast,1.0,36.9,No
+2337,55,Operations,9.4,Vast,0.6,1.4,No
+2338,48,Customer Service,9.4,Vast,0.6,22.1,No
+2339,34,Operations,9.4,Tijdelijk,1.0,14.4,No
+2340,54,Customer Service,9.4,Tijdelijk,0.6,13.7,No
+2341,27,Sales,9.4,Tijdelijk,1.0,5.2,Yes
+2342,45,Operations,9.4,Tijdelijk,0.8,17.3,No
+2343,40,Operations,9.4,Tijdelijk,1.0,23.8,Yes
+2344,37,IT,9.4,Vast,0.8,1.8,No
+2345,49,Operations,9.4,Vast,1.0,11.4,Yes
+2346,54,Finance,9.4,Vast,1.0,1.6,No
+2347,34,IT,9.4,Vast,1.0,30.9,Yes
+2348,46,Operations,9.4,Vast,0.6,10.6,No
+2349,57,Operations,9.4,Vast,1.0,24.8,No
+2350,48,Customer Service,9.4,Tijdelijk,1.0,6.9,Yes
+2351,59,HR,9.4,Vast,0.6,2.0,No
+2352,28,Finance,9.4,Tijdelijk,0.6,0.6,No
+2353,26,IT,9.4,Tijdelijk,1.0,5.0,No
+2354,52,HR,9.4,Vast,0.8,4.2,Yes
+2355,44,HR,9.4,Vast,1.0,12.3,No
+2356,31,Sales,9.4,Vast,1.0,0.3,Yes
+2357,53,Customer Service,9.4,Tijdelijk,1.0,11.0,Yes
+2358,51,Operations,9.4,Tijdelijk,1.0,7.5,No
+2359,52,Customer Service,9.4,Tijdelijk,1.0,12.9,No
+2360,39,Customer Service,9.4,Vast,0.8,18.2,No
+2361,57,IT,9.4,Vast,1.0,15.1,Yes
+2362,23,Sales,9.4,Vast,0.8,62.6,No
+2363,35,Customer Service,9.4,Tijdelijk,1.0,2.2,No
+2364,34,IT,9.4,Vast,1.0,8.4,No
+2365,50,Sales,9.4,Vast,0.6,8.3,Yes
+2366,33,Customer Service,9.4,Vast,1.0,8.1,No
+2367,23,Sales,9.4,Vast,0.6,16.4,No
+2368,53,IT,9.4,Vast,1.0,10.1,No
+2369,34,Sales,9.4,Vast,1.0,10.9,No
+2370,48,Operations,9.4,Vast,1.0,8.5,No
+2371,38,Sales,9.4,Vast,0.8,71.9,No
+2372,52,IT,9.4,Tijdelijk,1.0,39.4,No
+2373,55,Sales,9.4,Tijdelijk,1.0,5.5,No
+2374,45,Sales,9.4,Vast,0.8,1.8,No
+2375,56,Finance,9.4,Tijdelijk,1.0,27.5,No
+2376,27,Sales,9.4,Vast,0.8,88.0,Yes
+2377,40,Sales,9.4,Vast,1.0,5.2,No
+2378,51,Finance,9.4,Tijdelijk,1.0,6.6,No
+2379,28,IT,9.4,Tijdelijk,1.0,42.6,No
+2380,31,Sales,9.4,Tijdelijk,1.0,18.6,No
+2381,53,IT,9.4,Vast,1.0,5.3,No
+2382,55,Customer Service,9.4,Vast,1.0,13.0,Yes
+2383,49,IT,9.4,Tijdelijk,0.6,43.3,No
+2384,36,Operations,9.4,Vast,0.8,25.1,No
+2385,51,Finance,9.4,Vast,1.0,20.3,No
+2386,58,Sales,9.4,Tijdelijk,1.0,20.0,Yes
+2387,50,IT,9.4,Tijdelijk,1.0,2.9,No
+2388,43,Sales,9.4,Tijdelijk,0.8,26.1,No
+2389,25,Sales,9.4,Vast,0.8,4.8,Yes
+2390,41,Finance,9.4,Tijdelijk,0.8,40.0,No
+2391,53,Operations,9.4,Vast,1.0,6.8,No
+2392,57,Sales,9.4,Vast,1.0,29.2,No
+2393,25,Sales,9.4,Vast,0.6,4.6,No
+2394,48,Finance,9.4,Vast,0.6,10.8,No
+2395,38,Sales,9.4,Vast,1.0,1.7,No
+2396,33,Sales,9.4,Vast,0.8,16.2,No
+2397,43,Operations,9.4,Vast,1.0,27.1,No
+2398,38,IT,9.4,Vast,0.6,19.0,Yes
+2399,31,IT,9.4,Vast,1.0,11.1,No
+2400,22,IT,9.4,Vast,1.0,0.7,No
+2401,43,Operations,9.4,Vast,1.0,40.6,No
+2402,47,Sales,9.4,Tijdelijk,0.6,18.3,Yes
+2403,39,Operations,9.4,Tijdelijk,0.8,20.5,No
+2404,35,Customer Service,9.4,Vast,1.0,23.7,No
+2405,50,IT,9.4,Tijdelijk,1.0,20.7,No
+2406,33,HR,9.4,Vast,0.8,8.7,No
+2407,57,Sales,9.4,Vast,0.6,19.8,No
+2408,56,Operations,9.4,Tijdelijk,1.0,14.7,No
+2409,33,IT,9.4,Vast,1.0,28.9,No
+2410,28,Sales,9.4,Tijdelijk,0.8,24.3,Yes
+2411,50,Operations,9.4,Vast,0.6,0.6,No
+2412,32,Customer Service,9.4,Tijdelijk,1.0,7.1,No
+2413,54,Sales,9.4,Vast,1.0,0.5,No
+2414,27,Customer Service,9.4,Vast,1.0,1.6,No
+2415,36,Operations,9.4,Vast,1.0,13.8,No
+2416,53,Finance,9.4,Tijdelijk,0.6,31.1,No
+2417,32,Sales,9.4,Vast,0.8,1.9,No
+2418,44,Finance,9.4,Tijdelijk,0.8,9.0,No
+2419,47,Operations,9.4,Vast,1.0,36.3,No
+2420,55,Finance,9.4,Vast,1.0,25.3,Yes
+2421,55,Sales,9.4,Vast,0.8,11.0,Yes
+2422,50,Finance,9.4,Vast,1.0,22.1,No
+2423,25,Operations,9.4,Tijdelijk,0.8,11.1,Yes
+2424,38,Customer Service,9.4,Vast,1.0,2.6,Yes
+2425,56,IT,9.4,Vast,1.0,2.0,No
+2426,34,Customer Service,9.4,Vast,0.8,3.1,No
+2427,36,Customer Service,9.4,Vast,0.8,6.5,No
+2428,50,Customer Service,9.4,Tijdelijk,1.0,40.0,No
+2429,50,Sales,9.4,Vast,1.0,24.1,No
+2430,32,Operations,9.4,Vast,1.0,8.5,Yes
+2431,53,Customer Service,9.4,Tijdelijk,1.0,10.2,No
+2432,23,Operations,9.4,Tijdelijk,1.0,4.6,No
+2433,35,Sales,9.4,Vast,0.8,18.3,No
+2434,41,Finance,9.4,Vast,0.8,24.4,No
+2435,43,Finance,9.4,Vast,1.0,4.1,No
+2436,32,Operations,9.4,Vast,0.8,0.6,No
+2437,48,Finance,9.4,Tijdelijk,1.0,14.7,No
+2438,24,Customer Service,9.4,Vast,0.8,12.4,No
+2439,38,IT,9.4,Vast,0.8,7.7,No
+2440,49,Customer Service,9.4,Vast,0.6,15.5,No
+2441,50,IT,9.4,Vast,1.0,12.0,No
+2442,42,Operations,9.4,Vast,0.8,4.3,Yes
+2443,37,IT,9.4,Vast,1.0,7.6,No
+2444,58,IT,9.4,Vast,1.0,8.4,No
+2445,41,Customer Service,9.4,Vast,1.0,31.8,No
+2446,27,Operations,9.4,Vast,1.0,48.6,Yes
+2447,40,Operations,9.4,Vast,0.6,33.5,No
+2448,26,Operations,9.4,Vast,1.0,19.1,No
+2449,24,Sales,9.4,Vast,0.6,13.2,No
+2450,22,Sales,9.4,Vast,1.0,17.5,No
+2451,59,Operations,9.4,Vast,0.8,42.0,No
+2452,36,Operations,9.4,Vast,1.0,4.3,No
+2453,55,Customer Service,9.4,Vast,1.0,11.5,No
+2454,56,Operations,9.4,Tijdelijk,1.0,17.5,No
+2455,46,Sales,9.4,Tijdelijk,1.0,17.1,No
+2456,45,Operations,9.4,Tijdelijk,1.0,4.4,No
+2457,33,HR,9.4,Vast,0.6,13.3,No
+2458,39,Operations,9.4,Tijdelijk,1.0,23.8,No
+2459,36,Sales,9.4,Vast,0.8,9.7,No
+2460,37,Operations,9.4,Vast,1.0,23.6,No
+2461,48,Customer Service,9.4,Vast,1.0,6.7,No
+2462,29,Operations,9.4,Tijdelijk,1.0,41.9,No
+2463,46,HR,9.4,Vast,1.0,11.5,Yes
+2464,38,Operations,9.4,Vast,1.0,13.6,Yes
+2465,50,Operations,9.4,Tijdelijk,1.0,0.5,No
+2466,29,HR,9.4,Tijdelijk,0.6,2.8,Yes
+2467,36,Operations,9.4,Vast,1.0,15.0,No
+2468,48,Customer Service,9.4,Vast,1.0,8.2,Yes
+2469,28,Customer Service,9.4,Vast,1.0,10.6,No
+2470,24,Customer Service,9.4,Tijdelijk,1.0,1.0,Yes
+2471,50,IT,9.4,Vast,0.6,26.9,No
+2472,45,HR,9.4,Vast,0.8,23.0,No
+2473,24,Operations,9.4,Tijdelijk,1.0,3.1,No
+2474,41,Customer Service,9.4,Vast,0.8,15.1,No
+2475,36,Sales,9.4,Vast,0.8,25.6,No
+2476,46,Customer Service,9.4,Vast,1.0,15.4,No
+2477,51,Sales,9.4,Vast,1.0,5.6,No
+2478,35,Sales,9.4,Vast,1.0,16.0,No
+2479,28,IT,9.4,Vast,0.8,3.5,No
+2480,38,HR,9.4,Vast,1.0,5.7,Yes
+2481,41,Operations,9.4,Vast,0.8,4.1,No
+2482,57,Sales,9.4,Vast,1.0,12.2,Yes
+2483,30,HR,9.4,Tijdelijk,0.6,1.7,No
+2484,59,Sales,9.4,Tijdelijk,1.0,40.6,No
+2485,43,Operations,9.4,Vast,1.0,6.1,Yes
+2486,23,Sales,9.4,Vast,1.0,3.7,No
+2487,45,Operations,9.4,Vast,1.0,10.3,No
+2488,29,Sales,9.4,Tijdelijk,1.0,4.9,No
+2489,32,IT,9.4,Vast,0.8,11.5,No
+2490,34,Operations,9.4,Tijdelijk,1.0,6.4,Yes
+2491,38,Operations,9.4,Vast,0.8,2.1,No
+2492,29,Finance,9.4,Tijdelijk,1.0,4.6,No
+2493,42,IT,9.4,Tijdelijk,1.0,8.7,No
+2494,39,Operations,9.4,Tijdelijk,0.8,0.5,No
+2495,51,Customer Service,9.4,Vast,1.0,22.1,No
+2496,39,IT,9.4,Vast,0.8,14.6,No
+2497,52,Sales,9.4,Vast,0.8,13.8,No
+2498,59,HR,9.4,Vast,1.0,11.8,No
+2499,53,Customer Service,9.4,Vast,1.0,13.4,No
+2500,32,Finance,9.4,Vast,1.0,40.9,No
+2501,46,Finance,9.4,Vast,0.8,0.1,No
+2502,54,Customer Service,9.4,Vast,0.8,0.7,No
+2503,59,Operations,9.4,Vast,1.0,3.2,No
+2504,29,Customer Service,9.4,Vast,0.8,2.7,No
+2505,32,IT,9.4,Tijdelijk,0.8,3.0,No
+2506,43,Customer Service,9.4,Vast,1.0,16.7,No
+2507,45,Operations,9.4,Vast,1.0,9.2,No
+2508,38,Sales,9.4,Vast,1.0,72.0,No
+2509,33,Operations,9.4,Tijdelijk,0.8,3.9,No
+2510,53,Finance,9.4,Vast,0.8,5.6,No
+2511,36,IT,9.4,Vast,0.8,62.3,No
+2512,37,Customer Service,9.4,Vast,1.0,26.7,No
+2513,43,Customer Service,9.4,Vast,0.8,9.5,No
+2514,49,Operations,9.4,Vast,1.0,12.1,No
+2515,41,Customer Service,9.4,Tijdelijk,1.0,27.8,Yes
+2516,54,HR,9.4,Tijdelijk,1.0,9.8,No
+2517,31,Sales,9.4,Vast,1.0,3.5,No
+2518,53,Operations,9.4,Vast,0.8,26.4,No
+2519,54,Operations,9.4,Vast,0.8,11.6,No
+2520,23,Operations,9.4,Vast,1.0,2.5,No
+2521,54,Operations,9.4,Vast,0.8,10.6,No
+2522,54,Customer Service,9.4,Vast,1.0,8.0,No
+2523,34,IT,9.4,Tijdelijk,1.0,31.4,No
+2524,51,Customer Service,9.4,Tijdelijk,1.0,2.0,No
+2525,54,Operations,9.4,Vast,0.6,31.2,No
+2526,34,Sales,9.4,Vast,1.0,10.8,No
+2527,47,HR,9.4,Vast,0.8,7.8,Yes
+2528,43,Customer Service,9.4,Vast,1.0,2.7,No
+2529,23,Operations,9.4,Vast,1.0,18.1,No
+2530,59,Sales,9.4,Vast,1.0,39.2,Yes
+2531,47,Operations,9.4,Tijdelijk,1.0,7.1,No
+2532,36,IT,9.4,Tijdelijk,1.0,4.1,No
+2533,55,Operations,9.4,Vast,1.0,12.1,No
+2534,32,Sales,9.4,Vast,1.0,23.9,Yes
+2535,24,Operations,9.4,Vast,0.6,0.1,No
+2536,27,Finance,9.4,Vast,1.0,15.0,No
+2537,30,Operations,9.4,Vast,1.0,13.6,No
+2538,27,Sales,9.4,Vast,0.8,5.7,Yes
+2539,30,Operations,9.4,Vast,0.8,9.0,Yes
+2540,52,Finance,9.4,Vast,0.8,4.3,No
+2541,53,Customer Service,9.4,Tijdelijk,0.6,23.4,No
+2542,33,Sales,9.4,Vast,1.0,15.1,No
+2543,29,HR,9.4,Vast,1.0,11.4,No
+2544,29,Operations,9.4,Vast,1.0,7.5,Yes
+2545,49,Sales,9.4,Vast,1.0,5.2,No
+2546,41,Operations,9.4,Vast,1.0,26.0,No
+2547,28,Operations,9.4,Tijdelijk,0.8,9.0,No
+2548,32,Finance,9.4,Tijdelijk,1.0,10.4,No
+2549,41,Customer Service,9.4,Vast,1.0,11.0,No
+2550,37,IT,9.4,Vast,1.0,8.9,Yes
+2551,25,Sales,9.4,Vast,0.8,4.4,No
+2552,27,Sales,9.4,Vast,1.0,1.9,No
+2553,43,IT,9.4,Tijdelijk,0.6,1.6,No
+2554,47,Operations,9.4,Vast,1.0,21.2,No
+2555,24,Operations,9.4,Vast,0.8,3.8,No
+2556,35,IT,9.4,Vast,1.0,0.9,No
+2557,32,Operations,9.4,Vast,0.8,24.0,Yes
+2558,39,Operations,9.4,Tijdelijk,0.8,2.5,No
+2559,33,Operations,9.4,Vast,1.0,14.7,No
+2560,44,Finance,9.4,Tijdelijk,0.8,6.2,No
+2561,33,Sales,9.4,Vast,1.0,2.0,No
+2562,34,Customer Service,9.4,Tijdelijk,1.0,8.0,Yes
+2563,46,Operations,9.4,Vast,1.0,0.2,No
+2564,40,HR,9.4,Vast,0.6,27.6,No
+2565,57,Customer Service,9.4,Tijdelijk,1.0,10.8,No
+2566,29,Finance,9.4,Vast,1.0,2.2,No
+2567,50,Operations,9.4,Vast,1.0,4.1,No
+2568,53,HR,9.4,Vast,0.6,8.9,No
+2569,39,Operations,9.4,Tijdelijk,1.0,3.1,No
+2570,27,Operations,9.4,Vast,1.0,4.7,No
+2571,39,Sales,9.4,Tijdelijk,0.8,11.5,No
+2572,40,Sales,9.4,Vast,0.8,26.8,No
+2573,43,IT,9.4,Vast,1.0,7.7,No
+2574,58,Customer Service,9.4,Tijdelijk,1.0,18.9,No
+2575,53,Finance,9.4,Vast,1.0,31.4,No
+2576,24,Sales,9.4,Tijdelijk,1.0,3.7,Yes
+2577,49,Customer Service,9.4,Tijdelijk,0.8,24.7,No
+2578,31,Operations,9.4,Vast,0.8,21.2,No
+2579,56,Customer Service,9.4,Vast,1.0,6.6,No
+2580,50,Sales,9.4,Vast,1.0,68.4,No
+2581,36,IT,9.4,Tijdelijk,1.0,4.6,No
+2582,54,HR,9.4,Tijdelijk,1.0,4.4,Yes
+2583,28,Finance,9.4,Vast,0.8,22.2,No
+2584,33,HR,9.4,Vast,1.0,8.6,No
+2585,51,Customer Service,9.4,Vast,1.0,6.0,No
+2586,42,HR,9.4,Tijdelijk,0.8,3.0,No
+2587,52,Sales,9.4,Vast,1.0,21.7,No
+2588,45,Customer Service,9.4,Vast,0.6,23.1,No
+2589,41,Finance,9.4,Vast,0.6,12.5,No
+2590,58,Operations,9.4,Tijdelijk,1.0,47.3,No
+2591,25,Customer Service,9.4,Vast,1.0,5.7,No
+2592,49,Operations,9.4,Vast,1.0,3.7,No
+2593,41,Finance,9.4,Vast,0.8,17.0,No
+2594,45,Customer Service,9.4,Vast,0.8,21.3,No
+2595,53,Finance,9.4,Tijdelijk,0.8,3.8,No
+2596,57,Finance,9.4,Tijdelijk,0.6,1.2,No
+2597,55,HR,9.4,Vast,0.6,25.0,No
+2598,57,Sales,9.4,Vast,1.0,56.3,No
+2599,23,Customer Service,9.4,Vast,1.0,15.5,Yes
+2600,36,Operations,9.4,Vast,1.0,4.9,No
+2601,55,IT,9.4,Tijdelijk,1.0,85.6,No
+2602,57,Operations,9.4,Vast,1.0,33.6,Yes
+2603,27,Sales,9.4,Vast,0.6,10.8,Yes
+2604,33,Sales,9.4,Vast,0.8,26.2,No
+2605,24,Customer Service,9.4,Vast,1.0,25.4,No
+2606,39,Operations,9.4,Vast,1.0,41.0,No
+2607,42,Sales,9.4,Vast,1.0,27.6,No
+2608,36,IT,9.4,Vast,1.0,15.5,Yes
+2609,54,Operations,9.4,Tijdelijk,1.0,14.1,No
+2610,56,Sales,9.4,Vast,1.0,9.4,Yes
+2611,47,IT,9.4,Vast,1.0,14.8,No
+2612,29,Operations,9.4,Tijdelijk,0.8,23.8,No
+2613,57,Operations,9.4,Vast,1.0,52.1,No
+2614,51,IT,9.4,Tijdelijk,1.0,9.4,No
+2615,44,Sales,9.4,Vast,0.6,12.8,No
+2616,35,IT,9.4,Vast,1.0,8.8,No
+2617,35,Finance,9.4,Vast,1.0,16.6,No
+2618,23,Customer Service,9.4,Vast,1.0,14.9,No
+2619,58,Sales,9.4,Vast,1.0,0.3,No
+2620,26,Customer Service,9.4,Tijdelijk,0.8,11.7,No
+2621,59,Sales,9.4,Vast,1.0,1.4,No
+2622,35,Sales,9.4,Vast,1.0,0.4,No
+2623,46,Customer Service,9.4,Vast,1.0,23.5,Yes
+2624,41,Operations,9.4,Vast,0.8,4.5,Yes
+2625,23,Customer Service,9.4,Vast,0.8,6.2,No
+2626,27,IT,9.4,Vast,1.0,1.0,No
+2627,38,Operations,9.4,Tijdelijk,0.6,3.0,No
+2628,46,IT,9.4,Tijdelijk,0.8,21.8,No
+2629,49,Finance,9.4,Vast,1.0,10.2,No
+2630,23,Sales,9.4,Vast,1.0,31.9,No
+2631,56,Finance,9.4,Tijdelijk,1.0,7.6,No
+2632,58,Operations,9.4,Tijdelijk,0.8,4.7,No
+2633,26,Operations,9.4,Vast,1.0,6.4,No
+2634,22,IT,9.4,Tijdelijk,1.0,18.7,No
+2635,33,Operations,9.4,Vast,0.8,12.1,Yes
+2636,57,Customer Service,9.4,Tijdelijk,0.6,35.2,Yes
+2637,44,Operations,9.4,Vast,1.0,13.8,No
+2638,52,Customer Service,9.4,Vast,1.0,10.2,No
+2639,32,Customer Service,9.4,Tijdelijk,1.0,23.1,No
+2640,31,Operations,9.4,Vast,0.8,44.2,Yes
+2641,24,Sales,9.4,Vast,0.8,6.6,No
+2642,35,IT,9.4,Vast,1.0,4.3,No
+2643,37,IT,9.4,Tijdelijk,0.8,14.4,No
+2644,31,IT,9.4,Tijdelijk,1.0,10.4,Yes
+2645,50,Sales,9.4,Tijdelijk,1.0,67.9,No
+2646,31,Operations,9.4,Vast,0.8,9.3,Yes
+2647,33,Sales,9.4,Tijdelijk,1.0,1.2,No
+2648,51,Sales,9.4,Vast,1.0,56.8,No
+2649,22,Operations,9.4,Vast,1.0,27.8,Yes
+2650,26,Finance,9.4,Tijdelijk,0.8,2.9,No
+2651,41,HR,9.4,Vast,0.6,35.2,Yes
+2652,29,IT,9.4,Vast,1.0,6.2,No
+2653,33,Operations,9.4,Vast,1.0,7.1,No
+2654,22,Finance,9.4,Vast,0.8,35.5,No
+2655,41,Operations,9.4,Tijdelijk,0.6,11.3,No
+2656,49,Finance,9.4,Vast,0.6,2.2,No
+2657,58,Operations,9.4,Tijdelijk,1.0,6.9,No
+2658,58,Operations,9.4,Vast,1.0,19.2,No
+2659,33,IT,9.4,Vast,1.0,2.9,No
+2660,58,Operations,9.4,Vast,0.8,13.4,No
+2661,49,Sales,9.4,Tijdelijk,1.0,17.8,No
+2662,36,Operations,9.4,Vast,0.8,6.3,No
+2663,27,HR,9.4,Tijdelijk,1.0,17.8,No
+2664,41,Customer Service,9.4,Vast,1.0,32.3,No
+2665,35,Sales,9.4,Vast,0.8,9.6,No
+2666,23,HR,9.4,Vast,1.0,7.2,No
+2667,30,Operations,9.4,Tijdelijk,0.8,4.3,No
+2668,58,Operations,9.4,Tijdelijk,0.8,13.9,Yes
+2669,41,Finance,9.4,Vast,1.0,31.8,No
+2670,47,Operations,9.4,Vast,1.0,5.9,No
+2671,50,Sales,9.4,Vast,1.0,7.6,No
+2672,22,IT,9.4,Tijdelijk,1.0,7.8,No
+2673,56,Sales,9.4,Vast,1.0,12.3,No
+2674,27,Customer Service,9.4,Tijdelijk,0.6,3.9,No
+2675,58,Customer Service,9.4,Tijdelijk,0.8,25.9,No
+2676,26,Finance,9.4,Vast,1.0,5.3,No
+2677,54,Finance,9.4,Tijdelijk,0.6,18.3,Yes
+2678,35,Sales,9.4,Vast,1.0,10.8,Yes
+2679,33,Sales,9.4,Vast,0.8,13.2,No
+2680,41,IT,9.4,Vast,1.0,3.0,No
+2681,45,Operations,9.4,Vast,1.0,19.9,No
+2682,55,Sales,9.4,Tijdelijk,0.8,3.1,Yes
+2683,46,Customer Service,9.4,Vast,0.8,1.8,No
+2684,50,Operations,9.4,Vast,1.0,11.9,Yes
+2685,52,Sales,9.4,Vast,0.8,18.5,No
+2686,44,Sales,9.4,Vast,0.8,0.8,No
+2687,59,Sales,9.4,Vast,1.0,1.1,No
+2688,41,Finance,9.4,Vast,0.8,24.3,Yes
+2689,44,Operations,9.4,Vast,1.0,24.8,No
+2690,37,Sales,9.4,Tijdelijk,1.0,4.2,No
+2691,29,Customer Service,9.4,Tijdelijk,0.8,14.3,Yes
+2692,42,Sales,9.4,Vast,1.0,8.8,No
+2693,22,Operations,9.4,Tijdelijk,1.0,15.0,No
+2694,29,Finance,9.4,Vast,0.8,29.8,Yes
+2695,50,Customer Service,9.4,Vast,1.0,1.2,No
+2696,53,IT,9.4,Vast,0.8,22.6,Yes
+2697,59,HR,9.4,Vast,0.8,10.2,No
+2698,26,Customer Service,9.4,Vast,0.8,12.5,No
+2699,43,Sales,9.4,Tijdelijk,0.8,15.9,No
+2700,55,Customer Service,9.4,Vast,0.8,38.4,No
+2701,22,HR,9.4,Tijdelijk,1.0,0.9,No
+2702,47,HR,9.4,Vast,1.0,0.4,No
+2703,31,Finance,9.4,Tijdelijk,1.0,2.9,No
+2704,51,IT,9.4,Vast,1.0,64.5,No
+2705,39,Operations,9.4,Vast,1.0,18.8,Yes
+2706,38,Sales,9.4,Vast,1.0,14.3,No
+2707,47,Operations,9.4,Vast,1.0,0.7,No
+2708,29,Operations,9.4,Vast,0.8,31.7,No
+2709,33,Customer Service,9.4,Tijdelijk,1.0,25.1,No
+2710,48,Customer Service,9.4,Vast,0.6,16.4,No
+2711,29,Sales,9.4,Tijdelijk,0.8,6.2,No
+2712,46,Customer Service,9.4,Vast,1.0,1.1,No
+2713,25,HR,9.4,Tijdelijk,0.6,13.0,No
+2714,54,Operations,9.4,Vast,0.8,19.1,No
+2715,22,Operations,9.4,Vast,1.0,1.5,No
+2716,40,Sales,9.4,Tijdelijk,1.0,15.1,No
+2717,52,Finance,9.4,Vast,1.0,5.1,No
+2718,37,Operations,9.4,Vast,1.0,21.7,Yes
+2719,35,Finance,9.4,Vast,0.8,11.6,No
+2720,26,IT,9.4,Vast,0.6,2.1,No
+2721,47,Finance,9.4,Vast,1.0,11.2,No
+2722,49,Customer Service,9.4,Tijdelijk,0.8,7.6,No
+2723,23,Finance,9.4,Vast,1.0,3.0,No
+2724,27,Customer Service,9.4,Vast,0.8,27.6,No
+2725,30,Customer Service,9.4,Vast,1.0,0.2,No
+2726,54,Customer Service,9.4,Vast,1.0,5.6,Yes
+2727,46,Customer Service,9.4,Vast,1.0,0.2,No
+2728,34,Customer Service,9.4,Tijdelijk,1.0,1.5,No
+2729,30,Finance,9.4,Vast,1.0,5.3,No
+2730,34,IT,9.4,Tijdelijk,0.8,0.8,No
+2731,52,Sales,9.4,Vast,0.6,13.6,No
+2732,32,Sales,9.4,Vast,0.6,1.4,No
+2733,25,Operations,9.4,Vast,1.0,18.1,No
+2734,55,Operations,9.4,Vast,0.8,0.8,Yes
+2735,59,Customer Service,9.4,Vast,1.0,0.9,No
+2736,25,Customer Service,9.4,Vast,0.8,5.5,No
+2737,59,Customer Service,9.4,Tijdelijk,1.0,34.0,Yes
+2738,40,Operations,9.4,Vast,1.0,15.4,No
+2739,27,IT,9.4,Tijdelijk,0.8,22.1,No
+2740,55,IT,9.4,Vast,0.8,2.3,No
+2741,39,Operations,9.4,Tijdelijk,0.8,26.9,No
+2742,34,IT,9.4,Tijdelijk,1.0,0.1,No
+2743,44,IT,9.4,Vast,1.0,3.6,No
+2744,40,Customer Service,9.4,Tijdelijk,0.8,14.4,No
+2745,32,Finance,9.4,Vast,1.0,7.1,No
+2746,22,Operations,9.4,Tijdelijk,0.8,62.2,No
+2747,45,IT,9.4,Vast,1.0,0.5,Yes
+2748,28,Sales,9.4,Vast,1.0,98.5,No
+2749,46,IT,9.4,Tijdelijk,1.0,14.7,No
+2750,42,Customer Service,9.4,Vast,0.6,12.3,No
+2751,36,Operations,9.4,Vast,1.0,0.9,No
+2752,22,Operations,9.4,Tijdelijk,1.0,4.8,No
+2753,33,Operations,9.4,Vast,0.8,38.8,No
+2754,28,IT,9.4,Vast,0.8,6.6,No
+2755,36,Sales,9.4,Vast,1.0,16.3,Yes
+2756,42,Finance,9.4,Vast,1.0,113.9,No
+2757,40,Finance,9.4,Tijdelijk,1.0,4.6,No
+2758,50,IT,9.4,Vast,1.0,12.9,No
+2759,46,Sales,9.4,Vast,1.0,17.9,No
+2760,54,Sales,9.4,Vast,0.6,2.7,No
+2761,53,Customer Service,9.4,Tijdelijk,0.6,2.4,No
+2762,56,Operations,9.4,Vast,1.0,9.1,Yes
+2763,59,Operations,9.4,Vast,1.0,7.3,Yes
+2764,47,Sales,9.4,Tijdelijk,1.0,18.8,No
+2765,32,Sales,9.4,Vast,1.0,1.1,No
+2766,56,Sales,9.4,Vast,1.0,53.7,No
+2767,29,Operations,9.4,Vast,1.0,0.2,No
+2768,35,Sales,9.4,Vast,1.0,13.8,No
+2769,31,Customer Service,9.4,Vast,1.0,12.4,No
+2770,23,Sales,9.4,Vast,0.8,2.2,No
+2771,30,Customer Service,9.4,Tijdelijk,1.0,2.5,No
+2772,24,Sales,9.4,Vast,0.8,23.6,No
+2773,42,Customer Service,9.4,Tijdelijk,1.0,32.8,No
+2774,47,Customer Service,9.4,Vast,1.0,5.0,No
+2775,29,Operations,9.4,Tijdelijk,1.0,8.6,No
+2776,23,Customer Service,9.4,Tijdelijk,1.0,6.6,No
+2777,27,IT,9.4,Vast,0.6,1.1,No
+2778,49,Customer Service,9.4,Vast,0.8,16.8,No
+2779,50,Sales,9.4,Vast,1.0,26.2,No
+2780,47,IT,9.4,Tijdelijk,1.0,5.5,No
+2781,46,Sales,9.4,Tijdelijk,0.8,69.3,No
+2782,33,Customer Service,9.4,Vast,1.0,1.2,Yes
+2783,26,IT,9.4,Vast,1.0,16.3,No
+2784,55,Sales,9.4,Vast,1.0,8.9,No
+2785,58,Finance,9.4,Tijdelijk,0.6,8.9,No
+2786,36,Customer Service,9.4,Vast,1.0,9.2,No
+2787,57,Operations,9.4,Vast,1.0,4.5,No
+2788,36,Operations,9.4,Vast,1.0,18.9,No
+2789,44,IT,9.4,Vast,1.0,19.2,No
+2790,27,Sales,9.4,Tijdelijk,1.0,5.0,No
+2791,42,Sales,9.4,Vast,1.0,27.1,No
+2792,44,Customer Service,9.4,Vast,0.8,5.7,No
+2793,37,IT,9.4,Vast,0.8,19.4,No
+2794,36,Finance,9.4,Vast,0.8,1.9,No
+2795,46,IT,9.4,Vast,0.6,2.8,No
+2796,57,IT,9.4,Tijdelijk,1.0,5.7,No
+2797,32,Sales,9.4,Tijdelijk,1.0,13.5,No
+2798,36,Sales,9.4,Vast,1.0,15.6,No
+2799,25,Finance,9.4,Vast,0.8,7.6,No
+2800,42,Customer Service,9.4,Tijdelijk,1.0,1.2,No
+2801,34,Sales,9.4,Vast,0.6,7.0,No
+2802,43,Customer Service,9.4,Vast,0.6,17.5,Yes
+2803,40,Customer Service,9.4,Tijdelijk,0.6,16.7,No
+2804,55,Sales,9.4,Tijdelijk,1.0,2.6,No
+2805,35,Customer Service,9.4,Tijdelijk,0.6,0.1,Yes
+2806,25,Sales,9.4,Tijdelijk,1.0,21.0,No
+2807,48,IT,9.4,Tijdelijk,0.8,1.7,No
+2808,50,Finance,9.4,Vast,1.0,1.3,No
+2809,49,IT,9.4,Vast,1.0,0.0,No
+2810,56,Sales,9.4,Vast,1.0,8.5,No
+2811,29,Finance,9.4,Vast,1.0,10.5,No
+2812,37,IT,9.4,Vast,1.0,15.2,No
+2813,57,Operations,9.4,Vast,1.0,5.3,No
+2814,51,Customer Service,9.4,Vast,1.0,18.6,No
+2815,39,Sales,9.4,Vast,0.8,2.8,No
+2816,23,Operations,9.4,Vast,0.8,26.8,Yes
+2817,34,Finance,9.4,Vast,0.8,12.7,No
+2818,25,Sales,9.4,Vast,1.0,13.2,No
+2819,47,Sales,9.4,Tijdelijk,1.0,3.5,No
+2820,46,Customer Service,9.4,Vast,1.0,1.2,Yes
+2821,51,Finance,9.4,Vast,1.0,9.4,No
+2822,32,Operations,9.4,Tijdelijk,1.0,14.3,No
+2823,28,Customer Service,9.4,Vast,1.0,1.5,No
+2824,52,Customer Service,9.4,Vast,1.0,45.1,No
+2825,31,IT,9.4,Vast,0.8,59.0,No
+2826,34,Operations,9.4,Vast,1.0,11.8,No
+2827,52,Operations,9.4,Tijdelijk,0.8,45.0,No
+2828,28,Finance,9.4,Vast,1.0,3.0,Yes
+2829,57,Sales,9.4,Vast,0.8,0.4,No
+2830,41,Sales,9.4,Vast,1.0,0.6,No
+2831,25,Customer Service,9.4,Vast,1.0,13.3,No
+2832,28,HR,9.4,Vast,0.8,1.0,No
+2833,22,IT,9.4,Vast,0.8,47.7,Yes
+2834,34,Operations,9.4,Vast,1.0,2.3,No
+2835,43,Operations,9.4,Vast,1.0,5.5,No
+2836,42,Operations,9.4,Vast,1.0,25.9,No
+2837,43,Finance,9.4,Vast,1.0,3.7,No
+2838,49,Customer Service,9.4,Vast,0.8,4.2,No
+2839,30,Operations,9.4,Tijdelijk,1.0,15.4,No
+2840,47,Sales,9.4,Vast,1.0,4.8,No
+2841,30,HR,9.4,Vast,1.0,3.7,No
+2842,36,Operations,9.4,Vast,0.8,4.4,No
+2843,31,IT,9.4,Vast,1.0,10.1,No
+2844,45,Sales,9.4,Tijdelijk,1.0,50.8,No
+2845,29,IT,9.4,Vast,1.0,26.8,No
+2846,45,Customer Service,9.4,Tijdelijk,1.0,5.0,No
+2847,37,IT,9.4,Vast,1.0,6.8,No
+2848,47,Operations,9.4,Tijdelijk,1.0,9.4,No
+2849,48,Sales,9.4,Vast,0.8,57.9,No
+2850,58,Customer Service,9.4,Tijdelijk,1.0,2.8,No
+2851,25,IT,9.4,Vast,1.0,6.6,No
+2852,45,IT,9.4,Vast,0.8,19.6,No
+2853,40,IT,9.4,Vast,0.8,49.8,Yes
+2854,57,IT,9.4,Vast,1.0,2.5,Yes
+2855,31,Operations,9.4,Tijdelijk,0.8,3.9,No
+2856,46,Sales,9.4,Vast,1.0,3.8,No
+2857,39,Operations,9.4,Vast,1.0,0.3,No
+2858,40,IT,9.4,Vast,0.6,13.9,No
+2859,57,Customer Service,9.4,Vast,0.8,16.7,No
+2860,31,Operations,9.4,Vast,1.0,13.8,No
+2861,54,Operations,9.4,Vast,1.0,1.1,No
+2862,26,Operations,9.4,Vast,0.8,1.1,No
+2863,56,Customer Service,9.4,Tijdelijk,1.0,3.5,No
+2864,55,IT,9.4,Vast,1.0,5.1,Yes
+2865,54,Customer Service,9.4,Vast,1.0,23.2,Yes
+2866,42,HR,9.4,Tijdelijk,1.0,2.6,No
+2867,38,IT,9.4,Vast,1.0,0.7,No
+2868,43,Customer Service,9.4,Vast,1.0,7.5,No
+2869,58,Operations,9.4,Vast,0.8,8.1,Yes
+2870,36,IT,9.4,Vast,1.0,9.0,Yes
+2871,56,Customer Service,9.4,Vast,1.0,26.3,No
+2872,49,Finance,9.4,Tijdelijk,0.8,1.5,No
+2873,28,Sales,9.4,Vast,1.0,18.3,No
+2874,53,IT,9.4,Vast,1.0,6.2,No
+2875,32,Sales,9.4,Tijdelijk,1.0,5.6,No
+2876,31,HR,9.4,Tijdelijk,1.0,40.4,No
+2877,30,Operations,9.4,Vast,0.8,4.3,No
+2878,35,Operations,9.4,Vast,1.0,15.4,No
+2879,34,IT,9.4,Vast,1.0,4.8,No
+2880,46,IT,9.4,Tijdelijk,0.8,10.6,No
+2881,23,Customer Service,9.4,Tijdelijk,1.0,23.1,No
+2882,56,Operations,9.4,Vast,1.0,32.0,No
+2883,28,Customer Service,9.4,Vast,0.6,27.4,No
+2884,42,Operations,9.4,Vast,1.0,13.1,Yes
+2885,39,Finance,9.4,Tijdelijk,0.8,4.3,Yes
+2886,24,Operations,9.4,Vast,0.8,16.2,Yes
+2887,32,Operations,9.4,Vast,0.8,18.6,Yes
+2888,45,IT,9.4,Tijdelijk,0.8,0.2,No
+2889,40,Operations,9.4,Vast,1.0,8.7,No
+2890,25,Sales,9.4,Vast,0.8,27.8,No
+2891,47,Customer Service,9.4,Vast,1.0,10.1,No
+2892,59,Finance,9.4,Vast,0.6,5.6,No
+2893,53,IT,9.4,Vast,1.0,30.8,No
+2894,57,IT,9.4,Vast,1.0,2.5,No
+2895,58,IT,9.4,Vast,1.0,3.5,No
+2896,54,Sales,9.4,Tijdelijk,0.8,17.4,Yes
+2897,57,HR,9.4,Vast,1.0,6.5,No
+2898,24,Customer Service,9.4,Vast,0.8,18.7,Yes
+2899,30,IT,9.4,Vast,1.0,2.6,No
+2900,29,Sales,9.4,Tijdelijk,1.0,4.4,No
+2901,54,Sales,9.4,Tijdelijk,1.0,2.6,No
+2902,27,Finance,9.4,Vast,1.0,45.8,No
+2903,25,Sales,9.4,Vast,0.8,7.8,No
+2904,34,Finance,9.4,Vast,1.0,6.2,Yes
+2905,23,Finance,9.4,Vast,1.0,0.2,No
+2906,26,IT,9.4,Vast,1.0,2.5,No
+2907,48,HR,9.4,Tijdelijk,1.0,8.2,No
+2908,53,IT,9.4,Tijdelijk,0.8,1.1,No
+2909,42,Finance,9.4,Vast,0.8,10.7,No
+2910,29,Operations,9.4,Tijdelijk,1.0,9.1,No
+2911,59,Sales,9.4,Tijdelijk,1.0,21.9,No
+2912,29,Customer Service,9.4,Vast,1.0,16.2,No
+2913,24,Customer Service,9.4,Vast,1.0,8.9,No
+2914,24,Customer Service,9.4,Tijdelijk,0.6,3.8,No
+2915,43,Sales,9.4,Vast,1.0,19.5,No
+2916,27,Finance,9.4,Tijdelijk,1.0,18.5,No
+2917,23,Sales,9.4,Tijdelijk,1.0,2.5,No
+2918,44,Customer Service,9.4,Vast,1.0,36.9,No
+2919,23,Operations,9.4,Tijdelijk,0.8,1.0,No
+2920,59,Customer Service,9.4,Tijdelijk,0.8,0.8,No
+2921,38,Customer Service,9.4,Vast,1.0,3.1,No
+2922,56,Finance,9.4,Vast,0.8,36.0,No
+2923,55,Operations,9.4,Vast,0.8,11.0,Yes
+2924,44,IT,9.4,Vast,1.0,23.3,No
+2925,51,Customer Service,9.4,Vast,0.8,3.9,Yes
+2926,29,IT,9.4,Vast,1.0,10.1,No
+2927,43,Customer Service,9.4,Vast,1.0,6.7,No
+2928,57,Sales,9.4,Vast,1.0,26.4,No
+2929,26,Operations,9.4,Tijdelijk,1.0,0.3,No
+2930,34,Customer Service,9.4,Tijdelijk,1.0,4.2,Yes
+2931,50,Sales,9.4,Tijdelijk,1.0,2.5,Yes
+2932,52,Sales,9.4,Vast,1.0,29.4,No
+2933,37,Sales,9.4,Tijdelijk,0.8,9.5,No
+2934,51,Operations,9.4,Tijdelijk,1.0,7.8,No
+2935,37,HR,9.4,Vast,1.0,9.0,No
+2936,33,Operations,9.4,Vast,1.0,53.6,No
+2937,38,Customer Service,9.4,Vast,0.6,28.5,No
+2938,37,Customer Service,9.4,Tijdelijk,1.0,18.4,No
+2939,33,Operations,9.4,Vast,0.6,5.1,No
+2940,29,Finance,9.4,Vast,1.0,2.7,No
+2941,41,Sales,9.4,Vast,1.0,38.2,No
+2942,24,Operations,9.4,Vast,0.8,8.3,No
+2943,37,Customer Service,9.4,Vast,1.0,4.9,No
+2944,51,IT,9.4,Vast,0.6,9.5,Yes
+2945,44,Operations,9.4,Vast,1.0,37.5,No
+2946,49,Sales,9.4,Tijdelijk,0.8,7.3,No
+2947,26,Sales,9.4,Vast,1.0,12.4,No
+2948,41,Sales,9.4,Vast,0.8,24.4,No
+2949,22,HR,9.4,Vast,0.8,8.4,No
+2950,51,Sales,9.4,Vast,1.0,4.0,No
+2951,42,Sales,9.4,Vast,0.8,78.1,No
+2952,41,IT,9.4,Vast,1.0,47.0,No
+2953,27,Operations,9.4,Tijdelijk,0.6,27.8,No
+2954,43,Operations,9.4,Tijdelijk,1.0,17.5,Yes
+2955,39,Operations,9.4,Tijdelijk,1.0,5.2,Yes
+2956,29,Sales,9.4,Vast,1.0,36.7,No
+2957,53,IT,9.4,Vast,1.0,4.8,Yes
+2958,54,Operations,9.4,Tijdelijk,1.0,24.2,No
+2959,37,Operations,9.4,Vast,0.8,37.6,No
+2960,33,Customer Service,9.4,Vast,0.8,13.9,No
+2961,59,Customer Service,9.4,Vast,1.0,24.4,No
+2962,55,Sales,9.4,Vast,1.0,23.5,Yes
+2963,35,Customer Service,9.4,Vast,1.0,3.2,No
+2964,57,HR,9.4,Tijdelijk,0.6,16.5,No
+2965,54,Sales,9.4,Vast,0.8,1.5,No
+2966,44,IT,9.4,Vast,0.8,10.6,No
+2967,23,HR,9.4,Tijdelijk,1.0,2.7,Yes
+2968,42,Finance,9.4,Tijdelijk,1.0,8.1,No
+2969,23,Sales,9.4,Vast,0.8,26.8,No
+2970,48,HR,9.4,Vast,1.0,65.3,No
+2971,30,Sales,9.4,Tijdelijk,1.0,5.7,No
+2972,22,Finance,9.4,Tijdelijk,1.0,11.4,No
+2973,32,Customer Service,9.4,Vast,0.6,10.7,No
+2974,24,Operations,9.4,Tijdelijk,1.0,46.3,No
+2975,44,Finance,9.4,Vast,1.0,9.8,No
+2976,47,Sales,9.4,Vast,1.0,18.0,No
+2977,25,Finance,9.4,Vast,1.0,38.2,No
+2978,39,HR,9.4,Vast,0.8,7.0,Yes
+2979,27,IT,9.4,Tijdelijk,0.8,34.9,No
+2980,56,Sales,9.4,Vast,1.0,37.4,No
+2981,43,Operations,9.4,Vast,0.8,40.0,No
+2982,36,Finance,9.4,Vast,1.0,4.7,No
+2983,43,Sales,9.4,Vast,1.0,7.7,No
+2984,58,HR,9.4,Vast,1.0,30.6,No
+2985,33,IT,9.4,Vast,0.8,6.7,No
+2986,59,Sales,9.4,Vast,0.8,13.8,No
+2987,39,Operations,9.4,Tijdelijk,1.0,1.9,Yes
+2988,56,Customer Service,9.4,Vast,0.6,0.9,No
+2989,51,Customer Service,9.4,Vast,1.0,8.0,No
+2990,45,Customer Service,9.4,Tijdelijk,1.0,13.0,No
+2991,51,HR,9.4,Vast,1.0,7.5,Yes
+2992,35,HR,9.4,Vast,1.0,12.9,Yes
+2993,27,Operations,9.4,Tijdelijk,0.8,10.9,No
+2994,24,Operations,9.4,Vast,0.8,17.4,No
+2995,37,Sales,9.4,Vast,1.0,15.7,No
+2996,28,HR,9.4,Vast,1.0,8.3,No
+2997,35,Customer Service,9.4,Vast,1.0,8.3,No
+2998,30,IT,9.4,Tijdelijk,1.0,2.3,No
+2999,36,Customer Service,9.4,Vast,1.0,10.8,Yes
+3000,42,Finance,9.4,Tijdelijk,0.8,13.3,No
