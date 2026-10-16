@@ -36,16 +36,16 @@ The analysis merges four distinct CSV datasets based on a unique `EmployeeID`:
 
 ### Top 10 Drivers of Attrition
 Based on the Random Forest feature importances, the top factors driving employee attrition are:
-1.  **Base Salary (EUR)** (Importance: ~0.099)
-2.  **Annual Bonus (EUR)** (Importance: ~0.098)
-3.  **Commute Distance (km)** (Importance: ~0.097)
-4.  **Average Overtime Hours Per Month** (Importance: ~0.092)
-5.  **Salary Growth Rate (Pct)** (Importance: ~0.085)
-6.  **Years Since Last Promotion** (Importance: ~0.084)
-7.  **Training Hours Completed** (Importance: ~0.084)
-8.  **Age** (Importance: ~0.078)
-9.  **Vacation Days Taken** (Importance: ~0.069)
-10. **Short Term Sick Leave Count** (Importance: ~0.040)
+1.  **Base Salary (EUR)** (Importance: ~0.1038)
+2.  **Annual Bonus (EUR)** (Importance: ~0.1006)
+3.  **Commute Distance (km)** (Importance: ~0.1005)
+4.  **Average Overtime Hours Per Month** (Importance: ~0.0966)
+5.  **Salary Growth Rate (Pct)** (Importance: ~0.0899)
+6.  **Years Since Last Promotion** (Importance: ~0.0870)
+7.  **Training Hours Completed** (Importance: ~0.0871)
+8.  **Age** (Importance: ~0.0792)
+9.  **Vacation Days Taken** (Importance: ~0.0723)
+10. **Short Term Sick Leave Count** (Importance: ~0.0411)
 
 ## Dependencies
 
